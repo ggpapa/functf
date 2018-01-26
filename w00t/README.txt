@@ -1,0 +1,1 @@
+/usr/share/ecryptfs-utils/ecryptfs-mount-private.txt
