@@ -14,10 +14,10 @@
 ~MSle0~/ad_
 
 # Command Line History (newest to oldest):
-:q
-|2,0,1516942659,,"q"
 :wq
-|2,0,1516942335,,"wq"
+|2,0,1517891112,,"wq"
+:q
+|2,0,1517448648,,"q"
 :w
 |2,0,1516874506,,"w"
 :wq!
@@ -118,41 +118,191 @@
 |3,0,9,1,1,0,1514882043,"payload+=p64(poprdi+1)"
 ""-	CHAR	0
 	 
-|3,1,36,0,1,0,1516874505," "
+|3,1,36,0,1,0,1517449447," "
 
 # File marks:
-'0  53  47  /etc/passwd
-|4,48,53,47,1516942659,"/etc/passwd"
-'1  605  25  /etc/services
-|4,49,605,25,1516942335,"/etc/services"
-'2  170  20  /var/www/html/funheap/index.html
-|4,50,170,20,1516941871,"/var/www/html/funheap/index.html"
-'3  604  21  /etc/services
-|4,51,604,21,1516868712,"/etc/services"
-'4  604  21  /etc/services
-|4,52,604,21,1516868712,"/etc/services"
-'5  603  28  /etc/services
-|4,53,603,28,1516868425,"/etc/services"
-'6  603  28  /etc/services
-|4,54,603,28,1516868425,"/etc/services"
-'7  603  28  /etc/services
-|4,55,603,28,1516868425,"/etc/services"
-'8  603  28  /etc/services
-|4,56,603,28,1516868425,"/etc/services"
-'9  602  24  /etc/services
-|4,57,602,24,1516867438,"/etc/services"
+'0  607  27  /etc/services
+|4,48,607,27,1517891112,"/etc/services"
+'1  608  25  /etc/services
+|4,49,608,25,1517471712,"/etc/services"
+'2  607  25  /etc/services
+|4,50,607,25,1517471712,"/etc/services"
+'3  606  14  /etc/services
+|4,51,606,14,1517449451,"/etc/services"
+'4  606  14  /etc/services
+|4,52,606,14,1517449451,"/etc/services"
+'5  606  14  /etc/services
+|4,53,606,14,1517449451,"/etc/services"
+'6  606  14  /etc/services
+|4,54,606,14,1517449451,"/etc/services"
+'7  176  20  /var/www/html/funheap/index.html
+|4,55,176,20,1517448648,"/var/www/html/funheap/index.html"
+'8  53  47  /etc/passwd
+|4,56,53,47,1516942659,"/etc/passwd"
+'9  605  25  /etc/services
+|4,57,605,25,1516942335,"/etc/services"
 
 # Jumplist (newest first):
+-'  607  27  /etc/services
+|4,39,607,27,1517891112,"/etc/services"
+-'  608  25  /etc/services
+|4,39,608,25,1517891102,"/etc/services"
+-'  607  25  /etc/services
+|4,39,607,25,1517471712,"/etc/services"
+-'  606  14  /etc/services
+|4,39,606,14,1517471700,"/etc/services"
+-'  606  14  /etc/services
+|4,39,606,14,1517471700,"/etc/services"
+-'  606  14  /etc/services
+|4,39,606,14,1517449451,"/etc/services"
+-'  605  25  /etc/services
+|4,39,605,25,1517449439,"/etc/services"
+-'  605  25  /etc/services
+|4,39,605,25,1517449439,"/etc/services"
+-'  605  25  /etc/services
+|4,39,605,25,1517449439,"/etc/services"
+-'  176  20  /var/www/html/funheap/index.html
+|4,39,176,20,1517448648,"/var/www/html/funheap/index.html"
+-'  176  20  /var/www/html/funheap/index.html
+|4,39,176,20,1517448648,"/var/www/html/funheap/index.html"
+-'  176  20  /var/www/html/funheap/index.html
+|4,39,176,20,1517448648,"/var/www/html/funheap/index.html"
+-'  176  20  /var/www/html/funheap/index.html
+|4,39,176,20,1517448648,"/var/www/html/funheap/index.html"
+-'  176  20  /var/www/html/funheap/index.html
+|4,39,176,20,1517448648,"/var/www/html/funheap/index.html"
+-'  176  20  /var/www/html/funheap/index.html
+|4,39,176,20,1517448648,"/var/www/html/funheap/index.html"
+-'  176  20  /var/www/html/funheap/index.html
+|4,39,176,20,1517448648,"/var/www/html/funheap/index.html"
+-'  176  20  /var/www/html/funheap/index.html
+|4,39,176,20,1517448648,"/var/www/html/funheap/index.html"
+-'  170  20  /var/www/html/funheap/index.html
+|4,39,170,20,1517292015,"/var/www/html/funheap/index.html"
+-'  170  20  /var/www/html/funheap/index.html
+|4,39,170,20,1517292015,"/var/www/html/funheap/index.html"
+-'  170  20  /var/www/html/funheap/index.html
+|4,39,170,20,1517292015,"/var/www/html/funheap/index.html"
+-'  170  20  /var/www/html/funheap/index.html
+|4,39,170,20,1517292015,"/var/www/html/funheap/index.html"
+-'  170  20  /var/www/html/funheap/index.html
+|4,39,170,20,1517292015,"/var/www/html/funheap/index.html"
+-'  170  20  /var/www/html/funheap/index.html
+|4,39,170,20,1517292015,"/var/www/html/funheap/index.html"
+-'  170  20  /var/www/html/funheap/index.html
+|4,39,170,20,1517292015,"/var/www/html/funheap/index.html"
+-'  170  20  /var/www/html/funheap/index.html
+|4,39,170,20,1517292015,"/var/www/html/funheap/index.html"
+-'  53  47  /etc/passwd
+|4,39,53,47,1516942659,"/etc/passwd"
+-'  53  47  /etc/passwd
+|4,39,53,47,1516942659,"/etc/passwd"
+-'  53  47  /etc/passwd
+|4,39,53,47,1516942659,"/etc/passwd"
+-'  53  47  /etc/passwd
+|4,39,53,47,1516942659,"/etc/passwd"
+-'  53  47  /etc/passwd
+|4,39,53,47,1516942659,"/etc/passwd"
+-'  53  47  /etc/passwd
+|4,39,53,47,1516942659,"/etc/passwd"
+-'  53  47  /etc/passwd
+|4,39,53,47,1516942659,"/etc/passwd"
+-'  53  47  /etc/passwd
+|4,39,53,47,1516942659,"/etc/passwd"
+-'  53  47  /etc/passwd
+|4,39,53,47,1516942659,"/etc/passwd"
+-'  53  47  /etc/passwd
+|4,39,53,47,1516942659,"/etc/passwd"
+-'  53  47  /etc/passwd
+|4,39,53,47,1516942659,"/etc/passwd"
+-'  53  47  /etc/passwd
+|4,39,53,47,1516942659,"/etc/passwd"
+-'  53  47  /etc/passwd
+|4,39,53,47,1516942659,"/etc/passwd"
+-'  53  47  /etc/passwd
+|4,39,53,47,1516942659,"/etc/passwd"
+-'  53  47  /etc/passwd
+|4,39,53,47,1516942659,"/etc/passwd"
 -'  53  47  /etc/passwd
 |4,39,53,47,1516942659,"/etc/passwd"
 -'  605  25  /etc/services
 |4,39,605,25,1516942335,"/etc/services"
 -'  605  25  /etc/services
 |4,39,605,25,1516942335,"/etc/services"
+-'  605  25  /etc/services
+|4,39,605,25,1516942335,"/etc/services"
+-'  605  25  /etc/services
+|4,39,605,25,1516942335,"/etc/services"
 -'  604  21  /etc/services
 |4,39,604,21,1516942321,"/etc/services"
 -'  604  21  /etc/services
 |4,39,604,21,1516942321,"/etc/services"
+-'  604  21  /etc/services
+|4,39,604,21,1516942321,"/etc/services"
+-'  604  21  /etc/services
+|4,39,604,21,1516942321,"/etc/services"
+-'  604  21  /etc/services
+|4,39,604,21,1516942321,"/etc/services"
+-'  604  21  /etc/services
+|4,39,604,21,1516942321,"/etc/services"
+-'  604  21  /etc/services
+|4,39,604,21,1516942321,"/etc/services"
+-'  170  20  /var/www/html/funheap/index.html
+|4,39,170,20,1516941871,"/var/www/html/funheap/index.html"
+-'  170  20  /var/www/html/funheap/index.html
+|4,39,170,20,1516941871,"/var/www/html/funheap/index.html"
+-'  170  20  /var/www/html/funheap/index.html
+|4,39,170,20,1516941871,"/var/www/html/funheap/index.html"
+-'  170  20  /var/www/html/funheap/index.html
+|4,39,170,20,1516941871,"/var/www/html/funheap/index.html"
+-'  170  20  /var/www/html/funheap/index.html
+|4,39,170,20,1516941871,"/var/www/html/funheap/index.html"
+-'  170  20  /var/www/html/funheap/index.html
+|4,39,170,20,1516941871,"/var/www/html/funheap/index.html"
+-'  170  20  /var/www/html/funheap/index.html
+|4,39,170,20,1516941871,"/var/www/html/funheap/index.html"
+-'  170  20  /var/www/html/funheap/index.html
+|4,39,170,20,1516941871,"/var/www/html/funheap/index.html"
+-'  170  20  /var/www/html/funheap/index.html
+|4,39,170,20,1516941871,"/var/www/html/funheap/index.html"
+-'  170  20  /var/www/html/funheap/index.html
+|4,39,170,20,1516941871,"/var/www/html/funheap/index.html"
+-'  170  20  /var/www/html/funheap/index.html
+|4,39,170,20,1516941871,"/var/www/html/funheap/index.html"
+-'  170  20  /var/www/html/funheap/index.html
+|4,39,170,20,1516941871,"/var/www/html/funheap/index.html"
+-'  170  20  /var/www/html/funheap/index.html
+|4,39,170,20,1516941871,"/var/www/html/funheap/index.html"
+-'  170  20  /var/www/html/funheap/index.html
+|4,39,170,20,1516941871,"/var/www/html/funheap/index.html"
+-'  170  20  /var/www/html/funheap/index.html
+|4,39,170,20,1516941871,"/var/www/html/funheap/index.html"
+-'  170  20  /var/www/html/funheap/index.html
+|4,39,170,20,1516941871,"/var/www/html/funheap/index.html"
+-'  170  20  /var/www/html/funheap/index.html
+|4,39,170,20,1516941871,"/var/www/html/funheap/index.html"
+-'  170  20  /var/www/html/funheap/index.html
+|4,39,170,20,1516941871,"/var/www/html/funheap/index.html"
+-'  170  20  /var/www/html/funheap/index.html
+|4,39,170,20,1516941871,"/var/www/html/funheap/index.html"
+-'  170  20  /var/www/html/funheap/index.html
+|4,39,170,20,1516941871,"/var/www/html/funheap/index.html"
+-'  170  20  /var/www/html/funheap/index.html
+|4,39,170,20,1516941871,"/var/www/html/funheap/index.html"
+-'  170  20  /var/www/html/funheap/index.html
+|4,39,170,20,1516941871,"/var/www/html/funheap/index.html"
+-'  170  20  /var/www/html/funheap/index.html
+|4,39,170,20,1516941871,"/var/www/html/funheap/index.html"
+-'  170  20  /var/www/html/funheap/index.html
+|4,39,170,20,1516941871,"/var/www/html/funheap/index.html"
+-'  170  20  /var/www/html/funheap/index.html
+|4,39,170,20,1516941871,"/var/www/html/funheap/index.html"
+-'  170  20  /var/www/html/funheap/index.html
+|4,39,170,20,1516941871,"/var/www/html/funheap/index.html"
+-'  170  20  /var/www/html/funheap/index.html
+|4,39,170,20,1516941871,"/var/www/html/funheap/index.html"
+-'  170  20  /var/www/html/funheap/index.html
+|4,39,170,20,1516941871,"/var/www/html/funheap/index.html"
 -'  170  20  /var/www/html/funheap/index.html
 |4,39,170,20,1516941871,"/var/www/html/funheap/index.html"
 -'  170  20  /var/www/html/funheap/index.html
@@ -169,197 +319,38 @@
 |4,39,1,0,1516874365,"/var/www/html/funheap/index.html"
 -'  1  0  /var/www/html/funheap/index.html
 |4,39,1,0,1516874365,"/var/www/html/funheap/index.html"
--'  604  21  /etc/services
-|4,39,604,21,1516868712,"/etc/services"
--'  604  21  /etc/services
-|4,39,604,21,1516868712,"/etc/services"
--'  604  21  /etc/services
-|4,39,604,21,1516868712,"/etc/services"
--'  604  21  /etc/services
-|4,39,604,21,1516868712,"/etc/services"
--'  603  28  /etc/services
-|4,39,603,28,1516868706,"/etc/services"
--'  603  28  /etc/services
-|4,39,603,28,1516868706,"/etc/services"
--'  603  28  /etc/services
-|4,39,603,28,1516868706,"/etc/services"
--'  603  28  /etc/services
-|4,39,603,28,1516868706,"/etc/services"
--'  603  28  /etc/services
-|4,39,603,28,1516868706,"/etc/services"
--'  603  28  /etc/services
-|4,39,603,28,1516868706,"/etc/services"
--'  603  28  /etc/services
-|4,39,603,28,1516868425,"/etc/services"
--'  603  28  /etc/services
-|4,39,603,28,1516868425,"/etc/services"
--'  603  28  /etc/services
-|4,39,603,28,1516868425,"/etc/services"
--'  603  28  /etc/services
-|4,39,603,28,1516868425,"/etc/services"
--'  602  24  /etc/services
-|4,39,602,24,1516868417,"/etc/services"
--'  602  24  /etc/services
-|4,39,602,24,1516868417,"/etc/services"
--'  602  24  /etc/services
-|4,39,602,24,1516868417,"/etc/services"
--'  602  24  /etc/services
-|4,39,602,24,1516868417,"/etc/services"
--'  602  24  /etc/services
-|4,39,602,24,1516868417,"/etc/services"
--'  602  24  /etc/services
-|4,39,602,24,1516868417,"/etc/services"
--'  602  24  /etc/services
-|4,39,602,24,1516868417,"/etc/services"
--'  602  24  /etc/services
-|4,39,602,24,1516868417,"/etc/services"
--'  602  24  /etc/services
-|4,39,602,24,1516868417,"/etc/services"
--'  602  24  /etc/services
-|4,39,602,24,1516868417,"/etc/services"
--'  602  24  /etc/services
-|4,39,602,24,1516867438,"/etc/services"
--'  602  24  /etc/services
-|4,39,602,24,1516867438,"/etc/services"
--'  602  24  /etc/services
-|4,39,602,24,1516867438,"/etc/services"
--'  602  24  /etc/services
-|4,39,602,24,1516867438,"/etc/services"
--'  601  13  /etc/services
-|4,39,601,13,1516867426,"/etc/services"
--'  601  13  /etc/services
-|4,39,601,13,1516867426,"/etc/services"
--'  601  13  /etc/services
-|4,39,601,13,1516867426,"/etc/services"
--'  601  13  /etc/services
-|4,39,601,13,1516867426,"/etc/services"
--'  601  13  /etc/services
-|4,39,601,13,1516867426,"/etc/services"
--'  601  13  /etc/services
-|4,39,601,13,1516867426,"/etc/services"
--'  601  13  /etc/services
-|4,39,601,13,1516867426,"/etc/services"
--'  601  13  /etc/services
-|4,39,601,13,1516867426,"/etc/services"
--'  601  13  /etc/services
-|4,39,601,13,1516867426,"/etc/services"
--'  601  13  /etc/services
-|4,39,601,13,1516867426,"/etc/services"
--'  601  13  /etc/services
-|4,39,601,13,1516867426,"/etc/services"
--'  601  13  /etc/services
-|4,39,601,13,1516867426,"/etc/services"
--'  601  13  /etc/services
-|4,39,601,13,1516867426,"/etc/services"
--'  601  13  /etc/services
-|4,39,601,13,1516867426,"/etc/services"
--'  601  13  /etc/services
-|4,39,601,13,1516865617,"/etc/services"
--'  601  13  /etc/services
-|4,39,601,13,1516865617,"/etc/services"
--'  601  13  /etc/services
-|4,39,601,13,1516865617,"/etc/services"
--'  601  13  /etc/services
-|4,39,601,13,1516865617,"/etc/services"
--'  582  23  /etc/services
-|4,39,582,23,1516865588,"/etc/services"
--'  582  23  /etc/services
-|4,39,582,23,1516865588,"/etc/services"
--'  582  23  /etc/services
-|4,39,582,23,1516865588,"/etc/services"
--'  582  23  /etc/services
-|4,39,582,23,1516865588,"/etc/services"
--'  582  23  /etc/services
-|4,39,582,23,1516865588,"/etc/services"
--'  582  23  /etc/services
-|4,39,582,23,1516865588,"/etc/services"
--'  582  23  /etc/services
-|4,39,582,23,1516865588,"/etc/services"
--'  582  23  /etc/services
-|4,39,582,23,1516865588,"/etc/services"
--'  582  23  /etc/services
-|4,39,582,23,1516865588,"/etc/services"
--'  582  23  /etc/services
-|4,39,582,23,1516865588,"/etc/services"
--'  582  23  /etc/services
-|4,39,582,23,1516865588,"/etc/services"
--'  582  23  /etc/services
-|4,39,582,23,1516865588,"/etc/services"
--'  582  23  /etc/services
-|4,39,582,23,1516865588,"/etc/services"
--'  582  23  /etc/services
-|4,39,582,23,1516865588,"/etc/services"
--'  582  23  /etc/services
-|4,39,582,23,1516865588,"/etc/services"
--'  582  23  /etc/services
-|4,39,582,23,1516865588,"/etc/services"
--'  582  23  /etc/services
-|4,39,582,23,1516865588,"/etc/services"
--'  582  23  /etc/services
-|4,39,582,23,1516865588,"/etc/services"
--'  304  21  /var/www/html/index.html
-|4,39,304,21,1514968242,"/var/www/html/index.html"
--'  304  21  /var/www/html/index.html
-|4,39,304,21,1514968242,"/var/www/html/index.html"
--'  304  21  /var/www/html/index.html
-|4,39,304,21,1514968242,"/var/www/html/index.html"
--'  304  21  /var/www/html/index.html
-|4,39,304,21,1514968242,"/var/www/html/index.html"
--'  304  21  /var/www/html/index.html
-|4,39,304,21,1514968242,"/var/www/html/index.html"
--'  304  21  /var/www/html/index.html
-|4,39,304,21,1514968242,"/var/www/html/index.html"
--'  304  21  /var/www/html/index.html
-|4,39,304,21,1514968242,"/var/www/html/index.html"
--'  304  21  /var/www/html/index.html
-|4,39,304,21,1514968242,"/var/www/html/index.html"
--'  304  21  /var/www/html/index.html
-|4,39,304,21,1514968242,"/var/www/html/index.html"
--'  304  21  /var/www/html/index.html
-|4,39,304,21,1514968242,"/var/www/html/index.html"
--'  304  21  /var/www/html/index.html
-|4,39,304,21,1514968242,"/var/www/html/index.html"
--'  304  21  /var/www/html/index.html
-|4,39,304,21,1514968242,"/var/www/html/index.html"
--'  304  21  /var/www/html/index.html
-|4,39,304,21,1514968242,"/var/www/html/index.html"
--'  304  21  /var/www/html/index.html
-|4,39,304,21,1514968242,"/var/www/html/index.html"
--'  304  21  /var/www/html/index.html
-|4,39,304,21,1514968242,"/var/www/html/index.html"
--'  304  21  /var/www/html/index.html
-|4,39,304,21,1514968242,"/var/www/html/index.html"
--'  304  21  /var/www/html/index.html
-|4,39,304,21,1514968242,"/var/www/html/index.html"
--'  304  21  /var/www/html/index.html
-|4,39,304,21,1514968242,"/var/www/html/index.html"
--'  304  21  /var/www/html/index.html
-|4,39,304,21,1514968242,"/var/www/html/index.html"
--'  304  21  /var/www/html/index.html
-|4,39,304,21,1514968242,"/var/www/html/index.html"
--'  304  21  /var/www/html/index.html
-|4,39,304,21,1514968242,"/var/www/html/index.html"
--'  304  21  /var/www/html/index.html
-|4,39,304,21,1514968242,"/var/www/html/index.html"
--'  304  21  /var/www/html/index.html
-|4,39,304,21,1514968242,"/var/www/html/index.html"
+-'  1  0  /var/www/html/funheap/index.html
+|4,39,1,0,1516874365,"/var/www/html/funheap/index.html"
+-'  1  0  /var/www/html/funheap/index.html
+|4,39,1,0,1516874365,"/var/www/html/funheap/index.html"
+-'  1  0  /var/www/html/funheap/index.html
+|4,39,1,0,1516874365,"/var/www/html/funheap/index.html"
+-'  1  0  /var/www/html/funheap/index.html
+|4,39,1,0,1516874365,"/var/www/html/funheap/index.html"
+-'  1  0  /var/www/html/funheap/index.html
+|4,39,1,0,1516874365,"/var/www/html/funheap/index.html"
+-'  1  0  /var/www/html/funheap/index.html
+|4,39,1,0,1516874365,"/var/www/html/funheap/index.html"
+-'  1  0  /var/www/html/funheap/index.html
+|4,39,1,0,1516874365,"/var/www/html/funheap/index.html"
+-'  1  0  /var/www/html/funheap/index.html
+|4,39,1,0,1516874365,"/var/www/html/funheap/index.html"
+-'  1  0  /var/www/html/funheap/index.html
+|4,39,1,0,1516874365,"/var/www/html/funheap/index.html"
+-'  1  0  /var/www/html/funheap/index.html
+|4,39,1,0,1516874365,"/var/www/html/funheap/index.html"
+-'  1  0  /var/www/html/funheap/index.html
+|4,39,1,0,1516874365,"/var/www/html/funheap/index.html"
+-'  1  0  /var/www/html/funheap/index.html
+|4,39,1,0,1516874365,"/var/www/html/funheap/index.html"
 
 # History of marks within files (newest to oldest):
 
-> /etc/passwd
-	*	1516942655	0
-	"	53	47
-	^	53	48
-	.	53	34
-	+	51	28
-	+	52	33
-	+	53	34
-
 > /etc/services
-	*	1516942333	0
-	"	605	25
-	^	605	26
-	.	605	21
+	*	1517891108	0
+	"	607	27
+	^	607	28
+	.	607	23
 	+	599	13
 	+	579	13
 	+	580	15
@@ -392,10 +383,13 @@
 	+	603	24
 	+	604	17
 	+	605	21
+	+	606	14
+	+	608	21
+	+	607	23
 
 > /var/www/html/funheap/index.html
-	*	1516874506	0
-	"	170	20
+	*	1517292019	0
+	"	176	20
 	^	170	20
 	.	170	20
 	+	172	43
@@ -404,6 +398,15 @@
 	+	170	0
 	+	169	20
 	+	170	20
+
+> /etc/passwd
+	*	1516942655	0
+	"	53	47
+	^	53	48
+	.	53	34
+	+	51	28
+	+	52	33
+	+	53	34
 
 > /var/www/html/index.html
 	*	1514965005	0
