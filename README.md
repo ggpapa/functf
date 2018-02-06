@@ -8,7 +8,7 @@ This site is for learning various easy exploitation techniques.
 |------|-------------|-----|
 | fs_arbi_write (1), fs_arbi_read (2) | Play with File Structure (angelboy) ||
 | house_of_spiritO (3) | free fake fastbin | hack.lu 2014-OREO (4) |
-| bypass_vtable (5) | FILE Structure Exploitation ('vtable' check bypass)	(Dhaval Kapil) | 2017 hctf babyprintf	34c3 300 (6), 2017-babyprintf (7) |
+| bypass_vtable (5) fs_arbi_w_babe (6) | FILE Structure Exploitation ('vtable' check bypass)	(Dhaval Kapil) | 2017-babyprintf (7) |
 | unsorted_binO	(8) | change arbitrary address as arena value | 0ctf 2016-zerostorage (9) |
 | fastbin_dup_into_stackO (10) | abusing the fastbin freelist.	| 9447-search-engine (11), 0ctf 2017-babyheap (12) |
 | unsafe_unlinkO (13) |	free on a corrupted chunk to get arbitrary write. |HITCON CTF 2014-stkof (14), Insomni'hack 2017-Wheel of Robots (15) |
