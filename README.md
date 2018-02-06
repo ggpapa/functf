@@ -19,6 +19,7 @@ This site is for learning various easy exploitation techniques.
 | house_of_forceO (23) |	the Top Chunk (Wilderness) header | Boston Key Party 2016-cookbook (24), BCTF 2016-bcloud (25) |
 | house_of_einherjarO (26) | a single null byte overflow | Seccon 2016-tinypad (27) |
 | house_of_orangeO (28)	| the Top Chunk (Wilderness) | Hitcon 2016 houseoforange (29), 34C3 300 (30) |
+| tcache_house_of_spiritO (31)	| same with house_of_spirit ||
 
 # functf (babe)
 
