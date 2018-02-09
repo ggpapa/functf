@@ -15,11 +15,11 @@
 
 # Command Line History (newest to oldest):
 :wq
-|2,0,1517891112,,"wq"
+|2,0,1518159208,,"wq"
+:w
+|2,0,1517892030,,"w"
 :q
 |2,0,1517448648,,"q"
-:w
-|2,0,1516874506,,"w"
 :wq!
 |2,0,1514964942,,"wq!"
 :1
@@ -87,8 +87,8 @@
 
 # Registers:
 "0	LINE	0
-	<td>(Dhaval Kapil)</td>
-|3,0,0,1,1,0,1516874478,"<td>(Dhaval Kapil)</td>"
+	| house_of_orangeO (28)	| the Top Chunk (Wilderness) | Hitcon 2016 houseoforange (29), 34C3 300 (30) |
+|3,0,0,1,1,0,1517891977,"| house_of_orangeO (28)	| the Top Chunk (Wilderness) | Hitcon 2016 houseoforange (29), 34C3 300 (30) |"
 "1	LINE	0
 	socat and xinet.d, their stack is different.It need a little BF</td>
 |3,0,1,1,1,0,1514943840,"socat and xinet.d, their stack is different.It need a little BF</td>"
@@ -117,42 +117,106 @@
 	payload+=p64(poprdi+1)
 |3,0,9,1,1,0,1514882043,"payload+=p64(poprdi+1)"
 ""-	CHAR	0
-	 
-|3,1,36,0,1,0,1517449447," "
+	), 
+|3,1,36,0,1,0,1517908263,"), "
 
 # File marks:
-'0  607  27  /etc/services
-|4,48,607,27,1517891112,"/etc/services"
-'1  608  25  /etc/services
-|4,49,608,25,1517471712,"/etc/services"
-'2  607  25  /etc/services
-|4,50,607,25,1517471712,"/etc/services"
-'3  606  14  /etc/services
-|4,51,606,14,1517449451,"/etc/services"
-'4  606  14  /etc/services
-|4,52,606,14,1517449451,"/etc/services"
-'5  606  14  /etc/services
-|4,53,606,14,1517449451,"/etc/services"
-'6  606  14  /etc/services
-|4,54,606,14,1517449451,"/etc/services"
-'7  176  20  /var/www/html/funheap/index.html
-|4,55,176,20,1517448648,"/var/www/html/funheap/index.html"
-'8  53  47  /etc/passwd
-|4,56,53,47,1516942659,"/etc/passwd"
-'9  605  25  /etc/services
-|4,57,605,25,1516942335,"/etc/services"
+'0  609  35  /etc/services
+|4,48,609,35,1518159208,"/etc/services"
+'1  11  110  /home/README.md
+|4,49,11,110,1517908267,"/home/README.md"
+'2  22  60  /home/README.md
+|4,50,22,60,1517892036,"/home/README.md"
+'3  22  60  /home/README.md
+|4,51,22,60,1517892036,"/home/README.md"
+'4  607  27  /etc/services
+|4,52,607,27,1517891112,"/etc/services"
+'5  607  27  /etc/services
+|4,53,607,27,1517891112,"/etc/services"
+'6  608  25  /etc/services
+|4,54,608,25,1517471712,"/etc/services"
+'7  607  25  /etc/services
+|4,55,607,25,1517471712,"/etc/services"
+'8  608  25  /etc/services
+|4,56,608,25,1517471712,"/etc/services"
+'9  607  25  /etc/services
+|4,57,607,25,1517471712,"/etc/services"
 
 # Jumplist (newest first):
+-'  609  35  /etc/services
+|4,39,609,35,1518159208,"/etc/services"
+-'  607  27  /etc/services
+|4,39,607,27,1518159191,"/etc/services"
+-'  11  110  /home/README.md
+|4,39,11,110,1517908267,"/home/README.md"
+-'  11  110  /home/README.md
+|4,39,11,110,1517908267,"/home/README.md"
+-'  22  60  /home/README.md
+|4,39,22,60,1517908219,"/home/README.md"
+-'  22  60  /home/README.md
+|4,39,22,60,1517908219,"/home/README.md"
+-'  22  60  /home/README.md
+|4,39,22,60,1517892036,"/home/README.md"
+-'  22  60  /home/README.md
+|4,39,22,60,1517892036,"/home/README.md"
+-'  1  0  /home/README.md
+|4,39,1,0,1517891972,"/home/README.md"
+-'  1  0  /home/README.md
+|4,39,1,0,1517891972,"/home/README.md"
+-'  1  0  /home/README.md
+|4,39,1,0,1517891972,"/home/README.md"
+-'  1  0  /home/README.md
+|4,39,1,0,1517891972,"/home/README.md"
+-'  607  27  /etc/services
+|4,39,607,27,1517891112,"/etc/services"
+-'  607  27  /etc/services
+|4,39,607,27,1517891112,"/etc/services"
+-'  607  27  /etc/services
+|4,39,607,27,1517891112,"/etc/services"
 -'  607  27  /etc/services
 |4,39,607,27,1517891112,"/etc/services"
 -'  608  25  /etc/services
 |4,39,608,25,1517891102,"/etc/services"
+-'  608  25  /etc/services
+|4,39,608,25,1517891102,"/etc/services"
+-'  608  25  /etc/services
+|4,39,608,25,1517891102,"/etc/services"
+-'  608  25  /etc/services
+|4,39,608,25,1517891102,"/etc/services"
+-'  608  25  /etc/services
+|4,39,608,25,1517891102,"/etc/services"
+-'  607  25  /etc/services
+|4,39,607,25,1517471712,"/etc/services"
+-'  607  25  /etc/services
+|4,39,607,25,1517471712,"/etc/services"
+-'  607  25  /etc/services
+|4,39,607,25,1517471712,"/etc/services"
 -'  607  25  /etc/services
 |4,39,607,25,1517471712,"/etc/services"
 -'  606  14  /etc/services
 |4,39,606,14,1517471700,"/etc/services"
 -'  606  14  /etc/services
 |4,39,606,14,1517471700,"/etc/services"
+-'  606  14  /etc/services
+|4,39,606,14,1517471700,"/etc/services"
+-'  606  14  /etc/services
+|4,39,606,14,1517471700,"/etc/services"
+-'  606  14  /etc/services
+|4,39,606,14,1517471700,"/etc/services"
+-'  606  14  /etc/services
+|4,39,606,14,1517471700,"/etc/services"
+-'  606  14  /etc/services
+|4,39,606,14,1517471700,"/etc/services"
+-'  606  14  /etc/services
+|4,39,606,14,1517471700,"/etc/services"
+-'  606  14  /etc/services
+|4,39,606,14,1517471700,"/etc/services"
+-'  606  14  /etc/services
+|4,39,606,14,1517449451,"/etc/services"
+-'  606  14  /etc/services
+|4,39,606,14,1517449451,"/etc/services"
+-'  606  14  /etc/services
+|4,39,606,14,1517449451,"/etc/services"
 -'  606  14  /etc/services
 |4,39,606,14,1517449451,"/etc/services"
 -'  605  25  /etc/services
@@ -161,196 +225,132 @@
 |4,39,605,25,1517449439,"/etc/services"
 -'  605  25  /etc/services
 |4,39,605,25,1517449439,"/etc/services"
--'  176  20  /var/www/html/funheap/index.html
-|4,39,176,20,1517448648,"/var/www/html/funheap/index.html"
--'  176  20  /var/www/html/funheap/index.html
-|4,39,176,20,1517448648,"/var/www/html/funheap/index.html"
--'  176  20  /var/www/html/funheap/index.html
-|4,39,176,20,1517448648,"/var/www/html/funheap/index.html"
--'  176  20  /var/www/html/funheap/index.html
-|4,39,176,20,1517448648,"/var/www/html/funheap/index.html"
--'  176  20  /var/www/html/funheap/index.html
-|4,39,176,20,1517448648,"/var/www/html/funheap/index.html"
--'  176  20  /var/www/html/funheap/index.html
-|4,39,176,20,1517448648,"/var/www/html/funheap/index.html"
--'  176  20  /var/www/html/funheap/index.html
-|4,39,176,20,1517448648,"/var/www/html/funheap/index.html"
--'  176  20  /var/www/html/funheap/index.html
-|4,39,176,20,1517448648,"/var/www/html/funheap/index.html"
--'  170  20  /var/www/html/funheap/index.html
-|4,39,170,20,1517292015,"/var/www/html/funheap/index.html"
--'  170  20  /var/www/html/funheap/index.html
-|4,39,170,20,1517292015,"/var/www/html/funheap/index.html"
--'  170  20  /var/www/html/funheap/index.html
-|4,39,170,20,1517292015,"/var/www/html/funheap/index.html"
--'  170  20  /var/www/html/funheap/index.html
-|4,39,170,20,1517292015,"/var/www/html/funheap/index.html"
--'  170  20  /var/www/html/funheap/index.html
-|4,39,170,20,1517292015,"/var/www/html/funheap/index.html"
--'  170  20  /var/www/html/funheap/index.html
-|4,39,170,20,1517292015,"/var/www/html/funheap/index.html"
--'  170  20  /var/www/html/funheap/index.html
-|4,39,170,20,1517292015,"/var/www/html/funheap/index.html"
--'  170  20  /var/www/html/funheap/index.html
-|4,39,170,20,1517292015,"/var/www/html/funheap/index.html"
--'  53  47  /etc/passwd
-|4,39,53,47,1516942659,"/etc/passwd"
--'  53  47  /etc/passwd
-|4,39,53,47,1516942659,"/etc/passwd"
--'  53  47  /etc/passwd
-|4,39,53,47,1516942659,"/etc/passwd"
--'  53  47  /etc/passwd
-|4,39,53,47,1516942659,"/etc/passwd"
--'  53  47  /etc/passwd
-|4,39,53,47,1516942659,"/etc/passwd"
--'  53  47  /etc/passwd
-|4,39,53,47,1516942659,"/etc/passwd"
--'  53  47  /etc/passwd
-|4,39,53,47,1516942659,"/etc/passwd"
--'  53  47  /etc/passwd
-|4,39,53,47,1516942659,"/etc/passwd"
--'  53  47  /etc/passwd
-|4,39,53,47,1516942659,"/etc/passwd"
--'  53  47  /etc/passwd
-|4,39,53,47,1516942659,"/etc/passwd"
--'  53  47  /etc/passwd
-|4,39,53,47,1516942659,"/etc/passwd"
--'  53  47  /etc/passwd
-|4,39,53,47,1516942659,"/etc/passwd"
--'  53  47  /etc/passwd
-|4,39,53,47,1516942659,"/etc/passwd"
--'  53  47  /etc/passwd
-|4,39,53,47,1516942659,"/etc/passwd"
--'  53  47  /etc/passwd
-|4,39,53,47,1516942659,"/etc/passwd"
--'  53  47  /etc/passwd
-|4,39,53,47,1516942659,"/etc/passwd"
 -'  605  25  /etc/services
-|4,39,605,25,1516942335,"/etc/services"
+|4,39,605,25,1517449439,"/etc/services"
 -'  605  25  /etc/services
-|4,39,605,25,1516942335,"/etc/services"
+|4,39,605,25,1517449439,"/etc/services"
 -'  605  25  /etc/services
-|4,39,605,25,1516942335,"/etc/services"
+|4,39,605,25,1517449439,"/etc/services"
 -'  605  25  /etc/services
-|4,39,605,25,1516942335,"/etc/services"
--'  604  21  /etc/services
-|4,39,604,21,1516942321,"/etc/services"
--'  604  21  /etc/services
-|4,39,604,21,1516942321,"/etc/services"
--'  604  21  /etc/services
-|4,39,604,21,1516942321,"/etc/services"
--'  604  21  /etc/services
-|4,39,604,21,1516942321,"/etc/services"
--'  604  21  /etc/services
-|4,39,604,21,1516942321,"/etc/services"
--'  604  21  /etc/services
-|4,39,604,21,1516942321,"/etc/services"
--'  604  21  /etc/services
-|4,39,604,21,1516942321,"/etc/services"
--'  170  20  /var/www/html/funheap/index.html
-|4,39,170,20,1516941871,"/var/www/html/funheap/index.html"
--'  170  20  /var/www/html/funheap/index.html
-|4,39,170,20,1516941871,"/var/www/html/funheap/index.html"
--'  170  20  /var/www/html/funheap/index.html
-|4,39,170,20,1516941871,"/var/www/html/funheap/index.html"
--'  170  20  /var/www/html/funheap/index.html
-|4,39,170,20,1516941871,"/var/www/html/funheap/index.html"
--'  170  20  /var/www/html/funheap/index.html
-|4,39,170,20,1516941871,"/var/www/html/funheap/index.html"
--'  170  20  /var/www/html/funheap/index.html
-|4,39,170,20,1516941871,"/var/www/html/funheap/index.html"
--'  170  20  /var/www/html/funheap/index.html
-|4,39,170,20,1516941871,"/var/www/html/funheap/index.html"
--'  170  20  /var/www/html/funheap/index.html
-|4,39,170,20,1516941871,"/var/www/html/funheap/index.html"
--'  170  20  /var/www/html/funheap/index.html
-|4,39,170,20,1516941871,"/var/www/html/funheap/index.html"
--'  170  20  /var/www/html/funheap/index.html
-|4,39,170,20,1516941871,"/var/www/html/funheap/index.html"
--'  170  20  /var/www/html/funheap/index.html
-|4,39,170,20,1516941871,"/var/www/html/funheap/index.html"
--'  170  20  /var/www/html/funheap/index.html
-|4,39,170,20,1516941871,"/var/www/html/funheap/index.html"
--'  170  20  /var/www/html/funheap/index.html
-|4,39,170,20,1516941871,"/var/www/html/funheap/index.html"
--'  170  20  /var/www/html/funheap/index.html
-|4,39,170,20,1516941871,"/var/www/html/funheap/index.html"
--'  170  20  /var/www/html/funheap/index.html
-|4,39,170,20,1516941871,"/var/www/html/funheap/index.html"
--'  170  20  /var/www/html/funheap/index.html
-|4,39,170,20,1516941871,"/var/www/html/funheap/index.html"
--'  170  20  /var/www/html/funheap/index.html
-|4,39,170,20,1516941871,"/var/www/html/funheap/index.html"
--'  170  20  /var/www/html/funheap/index.html
-|4,39,170,20,1516941871,"/var/www/html/funheap/index.html"
--'  170  20  /var/www/html/funheap/index.html
-|4,39,170,20,1516941871,"/var/www/html/funheap/index.html"
--'  170  20  /var/www/html/funheap/index.html
-|4,39,170,20,1516941871,"/var/www/html/funheap/index.html"
--'  170  20  /var/www/html/funheap/index.html
-|4,39,170,20,1516941871,"/var/www/html/funheap/index.html"
--'  170  20  /var/www/html/funheap/index.html
-|4,39,170,20,1516941871,"/var/www/html/funheap/index.html"
--'  170  20  /var/www/html/funheap/index.html
-|4,39,170,20,1516941871,"/var/www/html/funheap/index.html"
--'  170  20  /var/www/html/funheap/index.html
-|4,39,170,20,1516941871,"/var/www/html/funheap/index.html"
--'  170  20  /var/www/html/funheap/index.html
-|4,39,170,20,1516941871,"/var/www/html/funheap/index.html"
--'  170  20  /var/www/html/funheap/index.html
-|4,39,170,20,1516941871,"/var/www/html/funheap/index.html"
--'  170  20  /var/www/html/funheap/index.html
-|4,39,170,20,1516941871,"/var/www/html/funheap/index.html"
--'  170  20  /var/www/html/funheap/index.html
-|4,39,170,20,1516941871,"/var/www/html/funheap/index.html"
--'  170  20  /var/www/html/funheap/index.html
-|4,39,170,20,1516941871,"/var/www/html/funheap/index.html"
--'  170  20  /var/www/html/funheap/index.html
-|4,39,170,20,1516941871,"/var/www/html/funheap/index.html"
--'  170  20  /var/www/html/funheap/index.html
-|4,39,170,20,1516941871,"/var/www/html/funheap/index.html"
--'  170  20  /var/www/html/funheap/index.html
-|4,39,170,20,1516941871,"/var/www/html/funheap/index.html"
--'  1  0  /var/www/html/funheap/index.html
-|4,39,1,0,1516874365,"/var/www/html/funheap/index.html"
--'  1  0  /var/www/html/funheap/index.html
-|4,39,1,0,1516874365,"/var/www/html/funheap/index.html"
--'  1  0  /var/www/html/funheap/index.html
-|4,39,1,0,1516874365,"/var/www/html/funheap/index.html"
--'  1  0  /var/www/html/funheap/index.html
-|4,39,1,0,1516874365,"/var/www/html/funheap/index.html"
--'  1  0  /var/www/html/funheap/index.html
-|4,39,1,0,1516874365,"/var/www/html/funheap/index.html"
--'  1  0  /var/www/html/funheap/index.html
-|4,39,1,0,1516874365,"/var/www/html/funheap/index.html"
--'  1  0  /var/www/html/funheap/index.html
-|4,39,1,0,1516874365,"/var/www/html/funheap/index.html"
--'  1  0  /var/www/html/funheap/index.html
-|4,39,1,0,1516874365,"/var/www/html/funheap/index.html"
--'  1  0  /var/www/html/funheap/index.html
-|4,39,1,0,1516874365,"/var/www/html/funheap/index.html"
--'  1  0  /var/www/html/funheap/index.html
-|4,39,1,0,1516874365,"/var/www/html/funheap/index.html"
--'  1  0  /var/www/html/funheap/index.html
-|4,39,1,0,1516874365,"/var/www/html/funheap/index.html"
--'  1  0  /var/www/html/funheap/index.html
-|4,39,1,0,1516874365,"/var/www/html/funheap/index.html"
--'  1  0  /var/www/html/funheap/index.html
-|4,39,1,0,1516874365,"/var/www/html/funheap/index.html"
--'  1  0  /var/www/html/funheap/index.html
-|4,39,1,0,1516874365,"/var/www/html/funheap/index.html"
--'  1  0  /var/www/html/funheap/index.html
-|4,39,1,0,1516874365,"/var/www/html/funheap/index.html"
--'  1  0  /var/www/html/funheap/index.html
-|4,39,1,0,1516874365,"/var/www/html/funheap/index.html"
+|4,39,605,25,1517449439,"/etc/services"
+-'  605  25  /etc/services
+|4,39,605,25,1517449439,"/etc/services"
+-'  605  25  /etc/services
+|4,39,605,25,1517449439,"/etc/services"
+-'  605  25  /etc/services
+|4,39,605,25,1517449439,"/etc/services"
+-'  605  25  /etc/services
+|4,39,605,25,1517449439,"/etc/services"
+-'  605  25  /etc/services
+|4,39,605,25,1517449439,"/etc/services"
+-'  605  25  /etc/services
+|4,39,605,25,1517449439,"/etc/services"
+-'  176  20  /var/www/html/funheap/index.html
+|4,39,176,20,1517448648,"/var/www/html/funheap/index.html"
+-'  176  20  /var/www/html/funheap/index.html
+|4,39,176,20,1517448648,"/var/www/html/funheap/index.html"
+-'  176  20  /var/www/html/funheap/index.html
+|4,39,176,20,1517448648,"/var/www/html/funheap/index.html"
+-'  176  20  /var/www/html/funheap/index.html
+|4,39,176,20,1517448648,"/var/www/html/funheap/index.html"
+-'  176  20  /var/www/html/funheap/index.html
+|4,39,176,20,1517448648,"/var/www/html/funheap/index.html"
+-'  176  20  /var/www/html/funheap/index.html
+|4,39,176,20,1517448648,"/var/www/html/funheap/index.html"
+-'  176  20  /var/www/html/funheap/index.html
+|4,39,176,20,1517448648,"/var/www/html/funheap/index.html"
+-'  176  20  /var/www/html/funheap/index.html
+|4,39,176,20,1517448648,"/var/www/html/funheap/index.html"
+-'  176  20  /var/www/html/funheap/index.html
+|4,39,176,20,1517448648,"/var/www/html/funheap/index.html"
+-'  176  20  /var/www/html/funheap/index.html
+|4,39,176,20,1517448648,"/var/www/html/funheap/index.html"
+-'  176  20  /var/www/html/funheap/index.html
+|4,39,176,20,1517448648,"/var/www/html/funheap/index.html"
+-'  176  20  /var/www/html/funheap/index.html
+|4,39,176,20,1517448648,"/var/www/html/funheap/index.html"
+-'  176  20  /var/www/html/funheap/index.html
+|4,39,176,20,1517448648,"/var/www/html/funheap/index.html"
+-'  176  20  /var/www/html/funheap/index.html
+|4,39,176,20,1517448648,"/var/www/html/funheap/index.html"
+-'  176  20  /var/www/html/funheap/index.html
+|4,39,176,20,1517448648,"/var/www/html/funheap/index.html"
+-'  176  20  /var/www/html/funheap/index.html
+|4,39,176,20,1517448648,"/var/www/html/funheap/index.html"
+-'  176  20  /var/www/html/funheap/index.html
+|4,39,176,20,1517448648,"/var/www/html/funheap/index.html"
+-'  176  20  /var/www/html/funheap/index.html
+|4,39,176,20,1517448648,"/var/www/html/funheap/index.html"
+-'  176  20  /var/www/html/funheap/index.html
+|4,39,176,20,1517448648,"/var/www/html/funheap/index.html"
+-'  176  20  /var/www/html/funheap/index.html
+|4,39,176,20,1517448648,"/var/www/html/funheap/index.html"
+-'  176  20  /var/www/html/funheap/index.html
+|4,39,176,20,1517448648,"/var/www/html/funheap/index.html"
+-'  176  20  /var/www/html/funheap/index.html
+|4,39,176,20,1517448648,"/var/www/html/funheap/index.html"
+-'  176  20  /var/www/html/funheap/index.html
+|4,39,176,20,1517448648,"/var/www/html/funheap/index.html"
+-'  176  20  /var/www/html/funheap/index.html
+|4,39,176,20,1517448648,"/var/www/html/funheap/index.html"
+-'  176  20  /var/www/html/funheap/index.html
+|4,39,176,20,1517448648,"/var/www/html/funheap/index.html"
+-'  176  20  /var/www/html/funheap/index.html
+|4,39,176,20,1517448648,"/var/www/html/funheap/index.html"
+-'  176  20  /var/www/html/funheap/index.html
+|4,39,176,20,1517448648,"/var/www/html/funheap/index.html"
+-'  176  20  /var/www/html/funheap/index.html
+|4,39,176,20,1517448648,"/var/www/html/funheap/index.html"
+-'  176  20  /var/www/html/funheap/index.html
+|4,39,176,20,1517448648,"/var/www/html/funheap/index.html"
+-'  176  20  /var/www/html/funheap/index.html
+|4,39,176,20,1517448648,"/var/www/html/funheap/index.html"
+-'  176  20  /var/www/html/funheap/index.html
+|4,39,176,20,1517448648,"/var/www/html/funheap/index.html"
+-'  176  20  /var/www/html/funheap/index.html
+|4,39,176,20,1517448648,"/var/www/html/funheap/index.html"
+-'  176  20  /var/www/html/funheap/index.html
+|4,39,176,20,1517448648,"/var/www/html/funheap/index.html"
+-'  176  20  /var/www/html/funheap/index.html
+|4,39,176,20,1517448648,"/var/www/html/funheap/index.html"
+-'  176  20  /var/www/html/funheap/index.html
+|4,39,176,20,1517448648,"/var/www/html/funheap/index.html"
+-'  176  20  /var/www/html/funheap/index.html
+|4,39,176,20,1517448648,"/var/www/html/funheap/index.html"
+-'  176  20  /var/www/html/funheap/index.html
+|4,39,176,20,1517448648,"/var/www/html/funheap/index.html"
+-'  176  20  /var/www/html/funheap/index.html
+|4,39,176,20,1517448648,"/var/www/html/funheap/index.html"
+-'  176  20  /var/www/html/funheap/index.html
+|4,39,176,20,1517448648,"/var/www/html/funheap/index.html"
+-'  176  20  /var/www/html/funheap/index.html
+|4,39,176,20,1517448648,"/var/www/html/funheap/index.html"
+-'  176  20  /var/www/html/funheap/index.html
+|4,39,176,20,1517448648,"/var/www/html/funheap/index.html"
+-'  176  20  /var/www/html/funheap/index.html
+|4,39,176,20,1517448648,"/var/www/html/funheap/index.html"
+-'  176  20  /var/www/html/funheap/index.html
+|4,39,176,20,1517448648,"/var/www/html/funheap/index.html"
+-'  176  20  /var/www/html/funheap/index.html
+|4,39,176,20,1517448648,"/var/www/html/funheap/index.html"
+-'  176  20  /var/www/html/funheap/index.html
+|4,39,176,20,1517448648,"/var/www/html/funheap/index.html"
+-'  176  20  /var/www/html/funheap/index.html
+|4,39,176,20,1517448648,"/var/www/html/funheap/index.html"
+-'  176  20  /var/www/html/funheap/index.html
+|4,39,176,20,1517448648,"/var/www/html/funheap/index.html"
+-'  176  20  /var/www/html/funheap/index.html
+|4,39,176,20,1517448648,"/var/www/html/funheap/index.html"
+-'  176  20  /var/www/html/funheap/index.html
+|4,39,176,20,1517448648,"/var/www/html/funheap/index.html"
 
 # History of marks within files (newest to oldest):
 
 > /etc/services
-	*	1517891108	0
-	"	607	27
-	^	607	28
-	.	607	23
+	*	1518159206	0
+	"	609	35
+	^	609	36
+	.	609	30
 	+	599	13
 	+	579	13
 	+	580	15
@@ -386,6 +386,15 @@
 	+	606	14
 	+	608	21
 	+	607	23
+	+	609	30
+
+> /home/README.md
+	*	1517908264	0
+	"	11	110
+	^	11	38
+	.	11	110
+	+	22	60
+	+	11	110
 
 > /var/www/html/funheap/index.html
 	*	1517292019	0
