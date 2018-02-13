@@ -15,7 +15,7 @@
 
 # Command Line History (newest to oldest):
 :wq
-|2,0,1518159208,,"wq"
+|2,0,1518486780,,"wq"
 :w
 |2,0,1517892030,,"w"
 :q
@@ -121,40 +121,58 @@
 |3,1,36,0,1,0,1517908263,"), "
 
 # File marks:
-'0  609  35  /etc/services
-|4,48,609,35,1518159208,"/etc/services"
-'1  11  110  /home/README.md
-|4,49,11,110,1517908267,"/home/README.md"
-'2  22  60  /home/README.md
-|4,50,22,60,1517892036,"/home/README.md"
-'3  22  60  /home/README.md
-|4,51,22,60,1517892036,"/home/README.md"
-'4  607  27  /etc/services
-|4,52,607,27,1517891112,"/etc/services"
-'5  607  27  /etc/services
-|4,53,607,27,1517891112,"/etc/services"
-'6  608  25  /etc/services
-|4,54,608,25,1517471712,"/etc/services"
-'7  607  25  /etc/services
-|4,55,607,25,1517471712,"/etc/services"
-'8  608  25  /etc/services
-|4,56,608,25,1517471712,"/etc/services"
-'9  607  25  /etc/services
-|4,57,607,25,1517471712,"/etc/services"
+'0  609  26  /etc/services
+|4,48,609,26,1518486780,"/etc/services"
+'1  610  35  /etc/services
+|4,49,610,35,1518159208,"/etc/services"
+'2  609  35  /etc/services
+|4,50,609,35,1518159208,"/etc/services"
+'3  11  110  /home/README.md
+|4,51,11,110,1517908267,"/home/README.md"
+'4  22  60  /home/README.md
+|4,52,22,60,1517892036,"/home/README.md"
+'5  22  60  /home/README.md
+|4,53,22,60,1517892036,"/home/README.md"
+'6  607  27  /etc/services
+|4,54,607,27,1517891112,"/etc/services"
+'7  607  27  /etc/services
+|4,55,607,27,1517891112,"/etc/services"
+'8  607  27  /etc/services
+|4,56,607,27,1517891112,"/etc/services"
+'9  607  27  /etc/services
+|4,57,607,27,1517891112,"/etc/services"
 
 # Jumplist (newest first):
+-'  609  26  /etc/services
+|4,39,609,26,1518486780,"/etc/services"
+-'  610  35  /etc/services
+|4,39,610,35,1518486773,"/etc/services"
 -'  609  35  /etc/services
 |4,39,609,35,1518159208,"/etc/services"
+-'  607  27  /etc/services
+|4,39,607,27,1518159191,"/etc/services"
 -'  607  27  /etc/services
 |4,39,607,27,1518159191,"/etc/services"
 -'  11  110  /home/README.md
 |4,39,11,110,1517908267,"/home/README.md"
 -'  11  110  /home/README.md
 |4,39,11,110,1517908267,"/home/README.md"
+-'  11  110  /home/README.md
+|4,39,11,110,1517908267,"/home/README.md"
+-'  11  110  /home/README.md
+|4,39,11,110,1517908267,"/home/README.md"
 -'  22  60  /home/README.md
 |4,39,22,60,1517908219,"/home/README.md"
 -'  22  60  /home/README.md
 |4,39,22,60,1517908219,"/home/README.md"
+-'  22  60  /home/README.md
+|4,39,22,60,1517908219,"/home/README.md"
+-'  22  60  /home/README.md
+|4,39,22,60,1517908219,"/home/README.md"
+-'  22  60  /home/README.md
+|4,39,22,60,1517892036,"/home/README.md"
+-'  22  60  /home/README.md
+|4,39,22,60,1517892036,"/home/README.md"
 -'  22  60  /home/README.md
 |4,39,22,60,1517892036,"/home/README.md"
 -'  22  60  /home/README.md
@@ -167,6 +185,14 @@
 |4,39,1,0,1517891972,"/home/README.md"
 -'  1  0  /home/README.md
 |4,39,1,0,1517891972,"/home/README.md"
+-'  1  0  /home/README.md
+|4,39,1,0,1517891972,"/home/README.md"
+-'  1  0  /home/README.md
+|4,39,1,0,1517891972,"/home/README.md"
+-'  1  0  /home/README.md
+|4,39,1,0,1517891972,"/home/README.md"
+-'  1  0  /home/README.md
+|4,39,1,0,1517891972,"/home/README.md"
 -'  607  27  /etc/services
 |4,39,607,27,1517891112,"/etc/services"
 -'  607  27  /etc/services
@@ -185,6 +211,8 @@
 |4,39,608,25,1517891102,"/etc/services"
 -'  608  25  /etc/services
 |4,39,608,25,1517891102,"/etc/services"
+-'  608  25  /etc/services
+|4,39,608,25,1517891102,"/etc/services"
 -'  607  25  /etc/services
 |4,39,607,25,1517471712,"/etc/services"
 -'  607  25  /etc/services
@@ -193,6 +221,8 @@
 |4,39,607,25,1517471712,"/etc/services"
 -'  607  25  /etc/services
 |4,39,607,25,1517471712,"/etc/services"
+-'  606  14  /etc/services
+|4,39,606,14,1517471700,"/etc/services"
 -'  606  14  /etc/services
 |4,39,606,14,1517471700,"/etc/services"
 -'  606  14  /etc/services
@@ -245,38 +275,8 @@
 |4,39,605,25,1517449439,"/etc/services"
 -'  605  25  /etc/services
 |4,39,605,25,1517449439,"/etc/services"
--'  176  20  /var/www/html/funheap/index.html
-|4,39,176,20,1517448648,"/var/www/html/funheap/index.html"
--'  176  20  /var/www/html/funheap/index.html
-|4,39,176,20,1517448648,"/var/www/html/funheap/index.html"
--'  176  20  /var/www/html/funheap/index.html
-|4,39,176,20,1517448648,"/var/www/html/funheap/index.html"
--'  176  20  /var/www/html/funheap/index.html
-|4,39,176,20,1517448648,"/var/www/html/funheap/index.html"
--'  176  20  /var/www/html/funheap/index.html
-|4,39,176,20,1517448648,"/var/www/html/funheap/index.html"
--'  176  20  /var/www/html/funheap/index.html
-|4,39,176,20,1517448648,"/var/www/html/funheap/index.html"
--'  176  20  /var/www/html/funheap/index.html
-|4,39,176,20,1517448648,"/var/www/html/funheap/index.html"
--'  176  20  /var/www/html/funheap/index.html
-|4,39,176,20,1517448648,"/var/www/html/funheap/index.html"
--'  176  20  /var/www/html/funheap/index.html
-|4,39,176,20,1517448648,"/var/www/html/funheap/index.html"
--'  176  20  /var/www/html/funheap/index.html
-|4,39,176,20,1517448648,"/var/www/html/funheap/index.html"
--'  176  20  /var/www/html/funheap/index.html
-|4,39,176,20,1517448648,"/var/www/html/funheap/index.html"
--'  176  20  /var/www/html/funheap/index.html
-|4,39,176,20,1517448648,"/var/www/html/funheap/index.html"
--'  176  20  /var/www/html/funheap/index.html
-|4,39,176,20,1517448648,"/var/www/html/funheap/index.html"
--'  176  20  /var/www/html/funheap/index.html
-|4,39,176,20,1517448648,"/var/www/html/funheap/index.html"
--'  176  20  /var/www/html/funheap/index.html
-|4,39,176,20,1517448648,"/var/www/html/funheap/index.html"
--'  176  20  /var/www/html/funheap/index.html
-|4,39,176,20,1517448648,"/var/www/html/funheap/index.html"
+-'  605  25  /etc/services
+|4,39,605,25,1517449439,"/etc/services"
 -'  176  20  /var/www/html/funheap/index.html
 |4,39,176,20,1517448648,"/var/www/html/funheap/index.html"
 -'  176  20  /var/www/html/funheap/index.html
@@ -347,10 +347,10 @@
 # History of marks within files (newest to oldest):
 
 > /etc/services
-	*	1518159206	0
-	"	609	35
-	^	609	36
-	.	609	30
+	*	1518486778	0
+	"	609	26
+	^	609	27
+	.	609	21
 	+	599	13
 	+	579	13
 	+	580	15
@@ -386,7 +386,8 @@
 	+	606	14
 	+	608	21
 	+	607	23
-	+	609	30
+	+	610	30
+	+	609	21
 
 > /home/README.md
 	*	1517908264	0
