@@ -15,7 +15,7 @@
 
 # Command Line History (newest to oldest):
 :wq
-|2,0,1518593680,,"wq"
+|2,0,1519029829,,"wq"
 :w
 |2,0,1517892030,,"w"
 :q
@@ -89,9 +89,9 @@
 "0	LINE	0
 	| house_of_orangeO (28)	| the Top Chunk (Wilderness) | Hitcon 2016 houseoforange (29), 34C3 300 (30) |
 |3,0,0,1,1,0,1517891977,"| house_of_orangeO (28)	| the Top Chunk (Wilderness) | Hitcon 2016 houseoforange (29), 34C3 300 (30) |"
-""1	LINE	0
+"1	LINE	0
 	./w00t/peda/lib/config.py
-|3,1,1,1,1,0,1518593650,"./w00t/peda/lib/config.py"
+|3,0,1,1,1,0,1518593650,"./w00t/peda/lib/config.py"
 "2	LINE	0
 	./w00t/peda/lib/nasm.py
 |3,0,2,1,1,0,1518593648,"./w00t/peda/lib/nasm.py"
@@ -116,41 +116,77 @@
 "9	LINE	0
 	    p.interactive()
 |3,0,9,1,1,0,1514888583,"    p.interactive()"
-"-	CHAR	0
-	), 
-|3,0,36,0,1,0,1517908263,"), "
+""-	CHAR	0
+	functf_master
+|3,1,36,0,1,0,1519029817,"functf_master"
 
 # File marks:
-'0  21  2  /home/rm.sh
-|4,48,21,2,1518593680,"/home/rm.sh"
-'1  609  35  /etc/services
-|4,49,609,35,1518526126,"/etc/services"
-'2  610  26  /etc/services
-|4,50,610,26,1518486780,"/etc/services"
-'3  609  26  /etc/services
-|4,51,609,26,1518486780,"/etc/services"
-'4  611  35  /etc/services
-|4,52,611,35,1518159208,"/etc/services"
-'5  610  35  /etc/services
-|4,53,610,35,1518159208,"/etc/services"
-'6  610  35  /etc/services
-|4,54,610,35,1518159208,"/etc/services"
-'7  609  35  /etc/services
-|4,55,609,35,1518159208,"/etc/services"
-'8  11  110  /home/README.md
-|4,56,11,110,1517908267,"/home/README.md"
-'9  22  60  /home/README.md
-|4,57,22,60,1517892036,"/home/README.md"
+'0  25  39  /ctf/src/nm2.py
+|4,48,25,39,1519029829,"/ctf/src/nm2.py"
+'1  611  31  /etc/services
+|4,49,611,31,1519029631,"/etc/services"
+'2  21  2  /home/rm.sh
+|4,50,21,2,1518593680,"/home/rm.sh"
+'3  609  35  /etc/services
+|4,51,609,35,1518526126,"/etc/services"
+'4  609  35  /etc/services
+|4,52,609,35,1518526126,"/etc/services"
+'5  610  26  /etc/services
+|4,53,610,26,1518486780,"/etc/services"
+'6  609  26  /etc/services
+|4,54,609,26,1518486780,"/etc/services"
+'7  610  26  /etc/services
+|4,55,610,26,1518486780,"/etc/services"
+'8  609  26  /etc/services
+|4,56,609,26,1518486780,"/etc/services"
+'9  612  35  /etc/services
+|4,57,612,35,1518159208,"/etc/services"
 
 # Jumplist (newest first):
+-'  25  39  /ctf/src/nm2.py
+|4,39,25,39,1519029829,"/ctf/src/nm2.py"
+-'  1  0  /ctf/src/nm2.py
+|4,39,1,0,1519029808,"/ctf/src/nm2.py"
+-'  611  31  /etc/services
+|4,39,611,31,1519029631,"/etc/services"
+-'  611  31  /etc/services
+|4,39,611,31,1519029631,"/etc/services"
+-'  609  35  /etc/services
+|4,39,609,35,1519029622,"/etc/services"
+-'  609  35  /etc/services
+|4,39,609,35,1519029622,"/etc/services"
 -'  21  2  /home/rm.sh
 |4,39,21,2,1518593680,"/home/rm.sh"
+-'  21  2  /home/rm.sh
+|4,39,21,2,1518593680,"/home/rm.sh"
+-'  21  2  /home/rm.sh
+|4,39,21,2,1518593680,"/home/rm.sh"
+-'  21  2  /home/rm.sh
+|4,39,21,2,1518593680,"/home/rm.sh"
+-'  1  0  /home/rm.sh
+|4,39,1,0,1518593621,"/home/rm.sh"
+-'  1  0  /home/rm.sh
+|4,39,1,0,1518593621,"/home/rm.sh"
+-'  1  0  /home/rm.sh
+|4,39,1,0,1518593621,"/home/rm.sh"
 -'  1  0  /home/rm.sh
 |4,39,1,0,1518593621,"/home/rm.sh"
 -'  609  35  /etc/services
 |4,39,609,35,1518526126,"/etc/services"
 -'  609  35  /etc/services
 |4,39,609,35,1518526126,"/etc/services"
+-'  609  35  /etc/services
+|4,39,609,35,1518526126,"/etc/services"
+-'  609  35  /etc/services
+|4,39,609,35,1518526126,"/etc/services"
+-'  610  26  /etc/services
+|4,39,610,26,1518526113,"/etc/services"
+-'  610  26  /etc/services
+|4,39,610,26,1518526113,"/etc/services"
+-'  610  26  /etc/services
+|4,39,610,26,1518526113,"/etc/services"
+-'  610  26  /etc/services
+|4,39,610,26,1518526113,"/etc/services"
 -'  610  26  /etc/services
 |4,39,610,26,1518526113,"/etc/services"
 -'  610  26  /etc/services
@@ -159,6 +195,12 @@
 |4,39,609,26,1518486780,"/etc/services"
 -'  609  26  /etc/services
 |4,39,609,26,1518486780,"/etc/services"
+-'  609  26  /etc/services
+|4,39,609,26,1518486780,"/etc/services"
+-'  609  26  /etc/services
+|4,39,609,26,1518486780,"/etc/services"
+-'  612  35  /etc/services
+|4,39,612,35,1518486773,"/etc/services"
 -'  611  35  /etc/services
 |4,39,611,35,1518486773,"/etc/services"
 -'  610  35  /etc/services
@@ -167,6 +209,20 @@
 |4,39,611,35,1518486773,"/etc/services"
 -'  610  35  /etc/services
 |4,39,610,35,1518486773,"/etc/services"
+-'  612  35  /etc/services
+|4,39,612,35,1518486773,"/etc/services"
+-'  611  35  /etc/services
+|4,39,611,35,1518486773,"/etc/services"
+-'  610  35  /etc/services
+|4,39,610,35,1518486773,"/etc/services"
+-'  611  35  /etc/services
+|4,39,611,35,1518486773,"/etc/services"
+-'  610  35  /etc/services
+|4,39,610,35,1518486773,"/etc/services"
+-'  609  35  /etc/services
+|4,39,609,35,1518159208,"/etc/services"
+-'  609  35  /etc/services
+|4,39,609,35,1518159208,"/etc/services"
 -'  609  35  /etc/services
 |4,39,609,35,1518159208,"/etc/services"
 -'  609  35  /etc/services
@@ -183,6 +239,22 @@
 |4,39,607,27,1518159191,"/etc/services"
 -'  607  27  /etc/services
 |4,39,607,27,1518159191,"/etc/services"
+-'  607  27  /etc/services
+|4,39,607,27,1518159191,"/etc/services"
+-'  607  27  /etc/services
+|4,39,607,27,1518159191,"/etc/services"
+-'  607  27  /etc/services
+|4,39,607,27,1518159191,"/etc/services"
+-'  607  27  /etc/services
+|4,39,607,27,1518159191,"/etc/services"
+-'  607  27  /etc/services
+|4,39,607,27,1518159191,"/etc/services"
+-'  607  27  /etc/services
+|4,39,607,27,1518159191,"/etc/services"
+-'  607  27  /etc/services
+|4,39,607,27,1518159191,"/etc/services"
+-'  607  27  /etc/services
+|4,39,607,27,1518159191,"/etc/services"
 -'  11  110  /home/README.md
 |4,39,11,110,1517908267,"/home/README.md"
 -'  11  110  /home/README.md
@@ -215,171 +287,77 @@
 |4,39,11,110,1517908267,"/home/README.md"
 -'  11  110  /home/README.md
 |4,39,11,110,1517908267,"/home/README.md"
--'  22  60  /home/README.md
-|4,39,22,60,1517908219,"/home/README.md"
--'  22  60  /home/README.md
-|4,39,22,60,1517908219,"/home/README.md"
--'  22  60  /home/README.md
-|4,39,22,60,1517908219,"/home/README.md"
--'  22  60  /home/README.md
-|4,39,22,60,1517908219,"/home/README.md"
--'  22  60  /home/README.md
-|4,39,22,60,1517908219,"/home/README.md"
--'  22  60  /home/README.md
-|4,39,22,60,1517908219,"/home/README.md"
--'  22  60  /home/README.md
-|4,39,22,60,1517908219,"/home/README.md"
--'  22  60  /home/README.md
-|4,39,22,60,1517908219,"/home/README.md"
--'  22  60  /home/README.md
-|4,39,22,60,1517908219,"/home/README.md"
--'  22  60  /home/README.md
-|4,39,22,60,1517908219,"/home/README.md"
--'  22  60  /home/README.md
-|4,39,22,60,1517908219,"/home/README.md"
--'  22  60  /home/README.md
-|4,39,22,60,1517908219,"/home/README.md"
--'  22  60  /home/README.md
-|4,39,22,60,1517908219,"/home/README.md"
--'  22  60  /home/README.md
-|4,39,22,60,1517908219,"/home/README.md"
--'  22  60  /home/README.md
-|4,39,22,60,1517908219,"/home/README.md"
--'  22  60  /home/README.md
-|4,39,22,60,1517908219,"/home/README.md"
--'  22  60  /home/README.md
-|4,39,22,60,1517892036,"/home/README.md"
--'  22  60  /home/README.md
-|4,39,22,60,1517892036,"/home/README.md"
--'  22  60  /home/README.md
-|4,39,22,60,1517892036,"/home/README.md"
--'  22  60  /home/README.md
-|4,39,22,60,1517892036,"/home/README.md"
--'  22  60  /home/README.md
-|4,39,22,60,1517892036,"/home/README.md"
--'  22  60  /home/README.md
-|4,39,22,60,1517892036,"/home/README.md"
--'  22  60  /home/README.md
-|4,39,22,60,1517892036,"/home/README.md"
--'  22  60  /home/README.md
-|4,39,22,60,1517892036,"/home/README.md"
--'  22  60  /home/README.md
-|4,39,22,60,1517892036,"/home/README.md"
--'  22  60  /home/README.md
-|4,39,22,60,1517892036,"/home/README.md"
--'  22  60  /home/README.md
-|4,39,22,60,1517892036,"/home/README.md"
--'  22  60  /home/README.md
-|4,39,22,60,1517892036,"/home/README.md"
--'  22  60  /home/README.md
-|4,39,22,60,1517892036,"/home/README.md"
--'  22  60  /home/README.md
-|4,39,22,60,1517892036,"/home/README.md"
--'  22  60  /home/README.md
-|4,39,22,60,1517892036,"/home/README.md"
--'  22  60  /home/README.md
-|4,39,22,60,1517892036,"/home/README.md"
--'  1  0  /home/README.md
-|4,39,1,0,1517891972,"/home/README.md"
--'  1  0  /home/README.md
-|4,39,1,0,1517891972,"/home/README.md"
--'  1  0  /home/README.md
-|4,39,1,0,1517891972,"/home/README.md"
--'  1  0  /home/README.md
-|4,39,1,0,1517891972,"/home/README.md"
--'  1  0  /home/README.md
-|4,39,1,0,1517891972,"/home/README.md"
--'  1  0  /home/README.md
-|4,39,1,0,1517891972,"/home/README.md"
--'  1  0  /home/README.md
-|4,39,1,0,1517891972,"/home/README.md"
--'  1  0  /home/README.md
-|4,39,1,0,1517891972,"/home/README.md"
--'  1  0  /home/README.md
-|4,39,1,0,1517891972,"/home/README.md"
--'  1  0  /home/README.md
-|4,39,1,0,1517891972,"/home/README.md"
--'  1  0  /home/README.md
-|4,39,1,0,1517891972,"/home/README.md"
--'  1  0  /home/README.md
-|4,39,1,0,1517891972,"/home/README.md"
--'  1  0  /home/README.md
-|4,39,1,0,1517891972,"/home/README.md"
--'  1  0  /home/README.md
-|4,39,1,0,1517891972,"/home/README.md"
--'  1  0  /home/README.md
-|4,39,1,0,1517891972,"/home/README.md"
--'  1  0  /home/README.md
-|4,39,1,0,1517891972,"/home/README.md"
--'  1  0  /home/README.md
-|4,39,1,0,1517891972,"/home/README.md"
--'  1  0  /home/README.md
-|4,39,1,0,1517891972,"/home/README.md"
--'  1  0  /home/README.md
-|4,39,1,0,1517891972,"/home/README.md"
--'  1  0  /home/README.md
-|4,39,1,0,1517891972,"/home/README.md"
--'  1  0  /home/README.md
-|4,39,1,0,1517891972,"/home/README.md"
--'  1  0  /home/README.md
-|4,39,1,0,1517891972,"/home/README.md"
--'  1  0  /home/README.md
-|4,39,1,0,1517891972,"/home/README.md"
--'  1  0  /home/README.md
-|4,39,1,0,1517891972,"/home/README.md"
--'  1  0  /home/README.md
-|4,39,1,0,1517891972,"/home/README.md"
--'  1  0  /home/README.md
-|4,39,1,0,1517891972,"/home/README.md"
--'  1  0  /home/README.md
-|4,39,1,0,1517891972,"/home/README.md"
--'  1  0  /home/README.md
-|4,39,1,0,1517891972,"/home/README.md"
--'  1  0  /home/README.md
-|4,39,1,0,1517891972,"/home/README.md"
--'  1  0  /home/README.md
-|4,39,1,0,1517891972,"/home/README.md"
--'  1  0  /home/README.md
-|4,39,1,0,1517891972,"/home/README.md"
--'  1  0  /home/README.md
-|4,39,1,0,1517891972,"/home/README.md"
+-'  11  110  /home/README.md
+|4,39,11,110,1517908267,"/home/README.md"
+-'  11  110  /home/README.md
+|4,39,11,110,1517908267,"/home/README.md"
+-'  11  110  /home/README.md
+|4,39,11,110,1517908267,"/home/README.md"
+-'  11  110  /home/README.md
+|4,39,11,110,1517908267,"/home/README.md"
+-'  11  110  /home/README.md
+|4,39,11,110,1517908267,"/home/README.md"
+-'  11  110  /home/README.md
+|4,39,11,110,1517908267,"/home/README.md"
+-'  11  110  /home/README.md
+|4,39,11,110,1517908267,"/home/README.md"
+-'  11  110  /home/README.md
+|4,39,11,110,1517908267,"/home/README.md"
+-'  11  110  /home/README.md
+|4,39,11,110,1517908267,"/home/README.md"
+-'  11  110  /home/README.md
+|4,39,11,110,1517908267,"/home/README.md"
+-'  11  110  /home/README.md
+|4,39,11,110,1517908267,"/home/README.md"
+-'  11  110  /home/README.md
+|4,39,11,110,1517908267,"/home/README.md"
+-'  11  110  /home/README.md
+|4,39,11,110,1517908267,"/home/README.md"
+-'  11  110  /home/README.md
+|4,39,11,110,1517908267,"/home/README.md"
+-'  11  110  /home/README.md
+|4,39,11,110,1517908267,"/home/README.md"
+-'  11  110  /home/README.md
+|4,39,11,110,1517908267,"/home/README.md"
+-'  11  110  /home/README.md
+|4,39,11,110,1517908267,"/home/README.md"
+-'  11  110  /home/README.md
+|4,39,11,110,1517908267,"/home/README.md"
+-'  11  110  /home/README.md
+|4,39,11,110,1517908267,"/home/README.md"
+-'  11  110  /home/README.md
+|4,39,11,110,1517908267,"/home/README.md"
+-'  11  110  /home/README.md
+|4,39,11,110,1517908267,"/home/README.md"
+-'  11  110  /home/README.md
+|4,39,11,110,1517908267,"/home/README.md"
+-'  11  110  /home/README.md
+|4,39,11,110,1517908267,"/home/README.md"
+-'  11  110  /home/README.md
+|4,39,11,110,1517908267,"/home/README.md"
+-'  11  110  /home/README.md
+|4,39,11,110,1517908267,"/home/README.md"
+-'  11  110  /home/README.md
+|4,39,11,110,1517908267,"/home/README.md"
+-'  11  110  /home/README.md
+|4,39,11,110,1517908267,"/home/README.md"
+-'  11  110  /home/README.md
+|4,39,11,110,1517908267,"/home/README.md"
 
 # History of marks within files (newest to oldest):
 
-> /home/rm.sh
-	*	1518593679	0
-	"	21	2
-	^	21	3
-	.	21	2
-	+	21	25
-	+	13	0
-	+	1	2
-	+	2	2
-	+	3	2
-	+	4	2
-	+	5	2
-	+	6	2
-	+	7	2
-	+	8	2
-	+	9	2
-	+	10	2
-	+	11	2
-	+	12	2
-	+	13	2
-	+	14	2
-	+	15	2
-	+	16	2
-	+	17	2
-	+	18	2
-	+	19	2
-	+	20	2
-	+	21	2
+> /ctf/src/nm2.py
+	*	1519029828	0
+	"	25	39
+	^	25	40
+	.	25	39
+	+	25	39
 
 > /etc/services
-	*	1518526119	0
-	"	609	35
-	^	609	36
-	.	609	32
+	*	1519029629	0
+	"	611	31
+	^	611	32
+	.	611	26
 	+	599	13
 	+	579	13
 	+	580	15
@@ -415,9 +393,39 @@
 	+	606	14
 	+	608	21
 	+	607	23
-	+	611	30
+	+	612	30
 	+	610	21
 	+	609	32
+	+	611	26
+
+> /home/rm.sh
+	*	1518593679	0
+	"	21	2
+	^	21	3
+	.	21	2
+	+	21	25
+	+	13	0
+	+	1	2
+	+	2	2
+	+	3	2
+	+	4	2
+	+	5	2
+	+	6	2
+	+	7	2
+	+	8	2
+	+	9	2
+	+	10	2
+	+	11	2
+	+	12	2
+	+	13	2
+	+	14	2
+	+	15	2
+	+	16	2
+	+	17	2
+	+	18	2
+	+	19	2
+	+	20	2
+	+	21	2
 
 > /home/README.md
 	*	1517908264	0
