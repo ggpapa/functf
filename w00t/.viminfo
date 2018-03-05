@@ -14,12 +14,12 @@
 ~MSle0~/ad_
 
 # Command Line History (newest to oldest):
-:wq
-|2,0,1520225547,,"wq"
-:w
-|2,0,1517892030,,"w"
 :q
-|2,0,1517448648,,"q"
+|2,0,1520236962,,"q"
+:wq
+|2,0,1520236665,,"wq"
+:w
+|2,0,1520236278,,"w"
 :wq!
 |2,0,1514964942,,"wq!"
 :1
@@ -86,9 +86,9 @@
 # Debug Line History (newest to oldest):
 
 # Registers:
-""0	LINE	0
-	    print cmd
-|3,1,0,1,1,0,1519290656,"    print cmd"
+"0	LINE	0
+	2016-houseoforange    19029/tcp
+|3,0,0,1,1,0,1520236614,"2016-houseoforange    19029/tcp"
 "1	LINE	0
 	./w00t/peda/lib/config.py
 |3,0,1,1,1,0,1518593650,"./w00t/peda/lib/config.py"
@@ -116,45 +116,97 @@
 "9	LINE	0
 	    p.interactive()
 |3,0,9,1,1,0,1514888583,"    p.interactive()"
-"-	CHAR	0
-	m
-|3,0,36,0,1,0,1519290622,"m"
+""-	CHAR	0
+	houseoforange
+|3,1,36,0,1,0,1520236642,"houseoforange"
 
 # File marks:
-'0  614  28  /etc/services
-|4,48,614,28,1520225547,"/etc/services"
-'1  31  35  /ctf/src/nm2.py
-|4,49,31,35,1519290772,"/ctf/src/nm2.py"
-'2  32  4  /ctf/src/nm2.py
-|4,50,32,4,1519290659,"/ctf/src/nm2.py"
-'3  32  4  /ctf/src/nm2.py
-|4,51,32,4,1519290659,"/ctf/src/nm2.py"
-'4  613  27  /etc/services
-|4,52,613,27,1519290566,"/etc/services"
-'5  613  27  /etc/services
-|4,53,613,27,1519290566,"/etc/services"
-'6  611  29  /etc/services
-|4,54,611,29,1519112136,"/etc/services"
-'7  611  29  /etc/services
-|4,55,611,29,1519112136,"/etc/services"
-'8  611  29  /etc/services
-|4,56,611,29,1519112136,"/etc/services"
-'9  611  29  /etc/services
-|4,57,611,29,1519112136,"/etc/services"
+'0  619  24  /etc/services
+|4,48,619,24,1520236962,"/etc/services"
+'1  627  24  /etc/services
+|4,49,627,24,1520236665,"/etc/services"
+'2  627  24  /etc/services
+|4,50,627,24,1520236665,"/etc/services"
+'3  625  28  /etc/services
+|4,51,625,28,1520225547,"/etc/services"
+'4  614  28  /etc/services
+|4,52,614,28,1520225547,"/etc/services"
+'5  625  28  /etc/services
+|4,53,625,28,1520225547,"/etc/services"
+'6  614  28  /etc/services
+|4,54,614,28,1520225547,"/etc/services"
+'7  31  35  /ctf/src/nm2.py
+|4,55,31,35,1519290772,"/ctf/src/nm2.py"
+'8  32  4  /ctf/src/nm2.py
+|4,56,32,4,1519290659,"/ctf/src/nm2.py"
+'9  32  4  /ctf/src/nm2.py
+|4,57,32,4,1519290659,"/ctf/src/nm2.py"
 
 # Jumplist (newest first):
+-'  619  24  /etc/services
+|4,39,619,24,1520236962,"/etc/services"
+-'  627  24  /etc/services
+|4,39,627,24,1520236952,"/etc/services"
+-'  627  24  /etc/services
+|4,39,627,24,1520236665,"/etc/services"
+-'  625  28  /etc/services
+|4,39,625,28,1520236237,"/etc/services"
+-'  625  28  /etc/services
+|4,39,625,28,1520236237,"/etc/services"
 -'  614  28  /etc/services
 |4,39,614,28,1520225547,"/etc/services"
+-'  614  28  /etc/services
+|4,39,614,28,1520225547,"/etc/services"
+-'  613  27  /etc/services
+|4,39,613,27,1520225541,"/etc/services"
+-'  619  27  /etc/services
+|4,39,619,27,1520225541,"/etc/services"
 -'  613  27  /etc/services
 |4,39,613,27,1520225541,"/etc/services"
 -'  31  35  /ctf/src/nm2.py
 |4,39,31,35,1519290772,"/ctf/src/nm2.py"
 -'  31  35  /ctf/src/nm2.py
 |4,39,31,35,1519290772,"/ctf/src/nm2.py"
+-'  31  35  /ctf/src/nm2.py
+|4,39,31,35,1519290772,"/ctf/src/nm2.py"
+-'  31  35  /ctf/src/nm2.py
+|4,39,31,35,1519290772,"/ctf/src/nm2.py"
+-'  31  35  /ctf/src/nm2.py
+|4,39,31,35,1519290772,"/ctf/src/nm2.py"
+-'  31  35  /ctf/src/nm2.py
+|4,39,31,35,1519290772,"/ctf/src/nm2.py"
+-'  31  35  /ctf/src/nm2.py
+|4,39,31,35,1519290772,"/ctf/src/nm2.py"
+-'  31  35  /ctf/src/nm2.py
+|4,39,31,35,1519290772,"/ctf/src/nm2.py"
 -'  32  4  /ctf/src/nm2.py
 |4,39,32,4,1519290762,"/ctf/src/nm2.py"
 -'  32  4  /ctf/src/nm2.py
 |4,39,32,4,1519290762,"/ctf/src/nm2.py"
+-'  32  4  /ctf/src/nm2.py
+|4,39,32,4,1519290762,"/ctf/src/nm2.py"
+-'  32  4  /ctf/src/nm2.py
+|4,39,32,4,1519290762,"/ctf/src/nm2.py"
+-'  32  4  /ctf/src/nm2.py
+|4,39,32,4,1519290762,"/ctf/src/nm2.py"
+-'  32  4  /ctf/src/nm2.py
+|4,39,32,4,1519290762,"/ctf/src/nm2.py"
+-'  32  4  /ctf/src/nm2.py
+|4,39,32,4,1519290762,"/ctf/src/nm2.py"
+-'  32  4  /ctf/src/nm2.py
+|4,39,32,4,1519290762,"/ctf/src/nm2.py"
+-'  32  4  /ctf/src/nm2.py
+|4,39,32,4,1519290659,"/ctf/src/nm2.py"
+-'  32  4  /ctf/src/nm2.py
+|4,39,32,4,1519290659,"/ctf/src/nm2.py"
+-'  32  4  /ctf/src/nm2.py
+|4,39,32,4,1519290659,"/ctf/src/nm2.py"
+-'  32  4  /ctf/src/nm2.py
+|4,39,32,4,1519290659,"/ctf/src/nm2.py"
+-'  32  4  /ctf/src/nm2.py
+|4,39,32,4,1519290659,"/ctf/src/nm2.py"
+-'  32  4  /ctf/src/nm2.py
+|4,39,32,4,1519290659,"/ctf/src/nm2.py"
 -'  32  4  /ctf/src/nm2.py
 |4,39,32,4,1519290659,"/ctf/src/nm2.py"
 -'  32  4  /ctf/src/nm2.py
@@ -167,6 +219,30 @@
 |4,39,25,39,1519290592,"/ctf/src/nm2.py"
 -'  25  39  /ctf/src/nm2.py
 |4,39,25,39,1519290592,"/ctf/src/nm2.py"
+-'  25  39  /ctf/src/nm2.py
+|4,39,25,39,1519290592,"/ctf/src/nm2.py"
+-'  25  39  /ctf/src/nm2.py
+|4,39,25,39,1519290592,"/ctf/src/nm2.py"
+-'  25  39  /ctf/src/nm2.py
+|4,39,25,39,1519290592,"/ctf/src/nm2.py"
+-'  25  39  /ctf/src/nm2.py
+|4,39,25,39,1519290592,"/ctf/src/nm2.py"
+-'  25  39  /ctf/src/nm2.py
+|4,39,25,39,1519290592,"/ctf/src/nm2.py"
+-'  25  39  /ctf/src/nm2.py
+|4,39,25,39,1519290592,"/ctf/src/nm2.py"
+-'  25  39  /ctf/src/nm2.py
+|4,39,25,39,1519290592,"/ctf/src/nm2.py"
+-'  25  39  /ctf/src/nm2.py
+|4,39,25,39,1519290592,"/ctf/src/nm2.py"
+-'  25  39  /ctf/src/nm2.py
+|4,39,25,39,1519290592,"/ctf/src/nm2.py"
+-'  25  39  /ctf/src/nm2.py
+|4,39,25,39,1519290592,"/ctf/src/nm2.py"
+-'  25  39  /ctf/src/nm2.py
+|4,39,25,39,1519290592,"/ctf/src/nm2.py"
+-'  25  39  /ctf/src/nm2.py
+|4,39,25,39,1519290592,"/ctf/src/nm2.py"
 -'  613  27  /etc/services
 |4,39,613,27,1519290566,"/etc/services"
 -'  613  27  /etc/services
@@ -175,6 +251,12 @@
 |4,39,613,27,1519290566,"/etc/services"
 -'  613  27  /etc/services
 |4,39,613,27,1519290566,"/etc/services"
+-'  616  29  /etc/services
+|4,39,616,29,1519290536,"/etc/services"
+-'  611  29  /etc/services
+|4,39,611,29,1519290536,"/etc/services"
+-'  616  29  /etc/services
+|4,39,616,29,1519290536,"/etc/services"
 -'  611  29  /etc/services
 |4,39,611,29,1519290536,"/etc/services"
 -'  611  29  /etc/services
@@ -193,6 +275,12 @@
 |4,39,611,29,1519112136,"/etc/services"
 -'  611  29  /etc/services
 |4,39,611,29,1519112136,"/etc/services"
+-'  618  31  /etc/services
+|4,39,618,31,1519112130,"/etc/services"
+-'  612  31  /etc/services
+|4,39,612,31,1519112130,"/etc/services"
+-'  618  31  /etc/services
+|4,39,618,31,1519112130,"/etc/services"
 -'  612  31  /etc/services
 |4,39,612,31,1519112130,"/etc/services"
 -'  612  31  /etc/services
@@ -227,130 +315,42 @@
 |4,39,25,39,1519029829,"/ctf/src/nm2.py"
 -'  25  39  /ctf/src/nm2.py
 |4,39,25,39,1519029829,"/ctf/src/nm2.py"
--'  1  0  /ctf/src/nm2.py
-|4,39,1,0,1519029808,"/ctf/src/nm2.py"
--'  1  0  /ctf/src/nm2.py
-|4,39,1,0,1519029808,"/ctf/src/nm2.py"
--'  1  0  /ctf/src/nm2.py
-|4,39,1,0,1519029808,"/ctf/src/nm2.py"
--'  1  0  /ctf/src/nm2.py
-|4,39,1,0,1519029808,"/ctf/src/nm2.py"
--'  1  0  /ctf/src/nm2.py
-|4,39,1,0,1519029808,"/ctf/src/nm2.py"
--'  1  0  /ctf/src/nm2.py
-|4,39,1,0,1519029808,"/ctf/src/nm2.py"
--'  1  0  /ctf/src/nm2.py
-|4,39,1,0,1519029808,"/ctf/src/nm2.py"
--'  1  0  /ctf/src/nm2.py
-|4,39,1,0,1519029808,"/ctf/src/nm2.py"
--'  1  0  /ctf/src/nm2.py
-|4,39,1,0,1519029808,"/ctf/src/nm2.py"
--'  1  0  /ctf/src/nm2.py
-|4,39,1,0,1519029808,"/ctf/src/nm2.py"
--'  1  0  /ctf/src/nm2.py
-|4,39,1,0,1519029808,"/ctf/src/nm2.py"
--'  1  0  /ctf/src/nm2.py
-|4,39,1,0,1519029808,"/ctf/src/nm2.py"
--'  611  31  /etc/services
-|4,39,611,31,1519029631,"/etc/services"
--'  611  31  /etc/services
-|4,39,611,31,1519029631,"/etc/services"
--'  611  31  /etc/services
-|4,39,611,31,1519029631,"/etc/services"
--'  611  31  /etc/services
-|4,39,611,31,1519029631,"/etc/services"
--'  611  31  /etc/services
-|4,39,611,31,1519029631,"/etc/services"
--'  611  31  /etc/services
-|4,39,611,31,1519029631,"/etc/services"
--'  611  31  /etc/services
-|4,39,611,31,1519029631,"/etc/services"
--'  611  31  /etc/services
-|4,39,611,31,1519029631,"/etc/services"
--'  609  35  /etc/services
-|4,39,609,35,1519029622,"/etc/services"
--'  609  35  /etc/services
-|4,39,609,35,1519029622,"/etc/services"
--'  609  35  /etc/services
-|4,39,609,35,1519029622,"/etc/services"
--'  609  35  /etc/services
-|4,39,609,35,1519029622,"/etc/services"
--'  609  35  /etc/services
-|4,39,609,35,1519029622,"/etc/services"
--'  609  35  /etc/services
-|4,39,609,35,1519029622,"/etc/services"
--'  609  35  /etc/services
-|4,39,609,35,1519029622,"/etc/services"
--'  609  35  /etc/services
-|4,39,609,35,1519029622,"/etc/services"
--'  609  35  /etc/services
-|4,39,609,35,1519029622,"/etc/services"
--'  609  35  /etc/services
-|4,39,609,35,1519029622,"/etc/services"
--'  609  35  /etc/services
-|4,39,609,35,1519029622,"/etc/services"
--'  609  35  /etc/services
-|4,39,609,35,1519029622,"/etc/services"
--'  609  35  /etc/services
-|4,39,609,35,1519029622,"/etc/services"
--'  609  35  /etc/services
-|4,39,609,35,1519029622,"/etc/services"
--'  609  35  /etc/services
-|4,39,609,35,1519029622,"/etc/services"
--'  609  35  /etc/services
-|4,39,609,35,1519029622,"/etc/services"
--'  609  35  /etc/services
-|4,39,609,35,1519029622,"/etc/services"
--'  21  2  /home/rm.sh
-|4,39,21,2,1518593680,"/home/rm.sh"
--'  21  2  /home/rm.sh
-|4,39,21,2,1518593680,"/home/rm.sh"
--'  21  2  /home/rm.sh
-|4,39,21,2,1518593680,"/home/rm.sh"
--'  21  2  /home/rm.sh
-|4,39,21,2,1518593680,"/home/rm.sh"
--'  21  2  /home/rm.sh
-|4,39,21,2,1518593680,"/home/rm.sh"
--'  21  2  /home/rm.sh
-|4,39,21,2,1518593680,"/home/rm.sh"
--'  21  2  /home/rm.sh
-|4,39,21,2,1518593680,"/home/rm.sh"
--'  21  2  /home/rm.sh
-|4,39,21,2,1518593680,"/home/rm.sh"
--'  21  2  /home/rm.sh
-|4,39,21,2,1518593680,"/home/rm.sh"
--'  21  2  /home/rm.sh
-|4,39,21,2,1518593680,"/home/rm.sh"
--'  21  2  /home/rm.sh
-|4,39,21,2,1518593680,"/home/rm.sh"
--'  21  2  /home/rm.sh
-|4,39,21,2,1518593680,"/home/rm.sh"
--'  21  2  /home/rm.sh
-|4,39,21,2,1518593680,"/home/rm.sh"
--'  21  2  /home/rm.sh
-|4,39,21,2,1518593680,"/home/rm.sh"
--'  21  2  /home/rm.sh
-|4,39,21,2,1518593680,"/home/rm.sh"
--'  21  2  /home/rm.sh
-|4,39,21,2,1518593680,"/home/rm.sh"
--'  21  2  /home/rm.sh
-|4,39,21,2,1518593680,"/home/rm.sh"
--'  21  2  /home/rm.sh
-|4,39,21,2,1518593680,"/home/rm.sh"
--'  21  2  /home/rm.sh
-|4,39,21,2,1518593680,"/home/rm.sh"
--'  21  2  /home/rm.sh
-|4,39,21,2,1518593680,"/home/rm.sh"
--'  21  2  /home/rm.sh
-|4,39,21,2,1518593680,"/home/rm.sh"
+-'  25  39  /ctf/src/nm2.py
+|4,39,25,39,1519029829,"/ctf/src/nm2.py"
+-'  25  39  /ctf/src/nm2.py
+|4,39,25,39,1519029829,"/ctf/src/nm2.py"
+-'  25  39  /ctf/src/nm2.py
+|4,39,25,39,1519029829,"/ctf/src/nm2.py"
+-'  25  39  /ctf/src/nm2.py
+|4,39,25,39,1519029829,"/ctf/src/nm2.py"
+-'  25  39  /ctf/src/nm2.py
+|4,39,25,39,1519029829,"/ctf/src/nm2.py"
+-'  25  39  /ctf/src/nm2.py
+|4,39,25,39,1519029829,"/ctf/src/nm2.py"
+-'  25  39  /ctf/src/nm2.py
+|4,39,25,39,1519029829,"/ctf/src/nm2.py"
+-'  25  39  /ctf/src/nm2.py
+|4,39,25,39,1519029829,"/ctf/src/nm2.py"
+-'  25  39  /ctf/src/nm2.py
+|4,39,25,39,1519029829,"/ctf/src/nm2.py"
+-'  25  39  /ctf/src/nm2.py
+|4,39,25,39,1519029829,"/ctf/src/nm2.py"
+-'  25  39  /ctf/src/nm2.py
+|4,39,25,39,1519029829,"/ctf/src/nm2.py"
+-'  25  39  /ctf/src/nm2.py
+|4,39,25,39,1519029829,"/ctf/src/nm2.py"
+-'  25  39  /ctf/src/nm2.py
+|4,39,25,39,1519029829,"/ctf/src/nm2.py"
+-'  25  39  /ctf/src/nm2.py
+|4,39,25,39,1519029829,"/ctf/src/nm2.py"
 
 # History of marks within files (newest to oldest):
 
 > /etc/services
-	*	1520225545	0
-	"	614	28
-	^	614	29
-	.	614	23
+	*	1520236957	0
+	"	619	24
+	^	627	25
+	.	627	24
 	+	599	13
 	+	579	13
 	+	580	15
@@ -386,13 +386,29 @@
 	+	606	14
 	+	608	21
 	+	607	23
-	+	615	30
-	+	610	21
-	+	609	32
-	+	612	26
-	+	611	24
-	+	613	22
-	+	614	23
+	+	628	30
+	+	613	21
+	+	610	32
+	+	618	26
+	+	616	24
+	+	619	22
+	+	625	23
+	+	609	24
+	+	611	26
+	+	612	21
+	+	614	18
+	+	615	28
+	+	617	20
+	+	620	0
+	+	621	0
+	+	619	22
+	+	620	32
+	+	622	21
+	+	623	19
+	+	624	20
+	+	626	26
+	+	627	0
+	+	627	24
 
 > /ctf/src/nm2.py
 	*	1519290770	0
