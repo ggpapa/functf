@@ -15,7 +15,7 @@
 
 # Command Line History (newest to oldest):
 :wq
-|2,0,1519290772,,"wq"
+|2,0,1520225547,,"wq"
 :w
 |2,0,1517892030,,"w"
 :q
@@ -121,38 +121,52 @@
 |3,0,36,0,1,0,1519290622,"m"
 
 # File marks:
-'0  31  35  /ctf/src/nm2.py
-|4,48,31,35,1519290772,"/ctf/src/nm2.py"
-'1  32  4  /ctf/src/nm2.py
-|4,49,32,4,1519290659,"/ctf/src/nm2.py"
+'0  614  28  /etc/services
+|4,48,614,28,1520225547,"/etc/services"
+'1  31  35  /ctf/src/nm2.py
+|4,49,31,35,1519290772,"/ctf/src/nm2.py"
 '2  32  4  /ctf/src/nm2.py
 |4,50,32,4,1519290659,"/ctf/src/nm2.py"
-'3  613  27  /etc/services
-|4,51,613,27,1519290566,"/etc/services"
-'4  611  29  /etc/services
-|4,52,611,29,1519112136,"/etc/services"
-'5  611  29  /etc/services
-|4,53,611,29,1519112136,"/etc/services"
-'6  25  39  /ctf/src/nm2.py
-|4,54,25,39,1519029829,"/ctf/src/nm2.py"
-'7  25  39  /ctf/src/nm2.py
-|4,55,25,39,1519029829,"/ctf/src/nm2.py"
-'8  25  39  /ctf/src/nm2.py
-|4,56,25,39,1519029829,"/ctf/src/nm2.py"
-'9  25  39  /ctf/src/nm2.py
-|4,57,25,39,1519029829,"/ctf/src/nm2.py"
+'3  32  4  /ctf/src/nm2.py
+|4,51,32,4,1519290659,"/ctf/src/nm2.py"
+'4  613  27  /etc/services
+|4,52,613,27,1519290566,"/etc/services"
+'5  613  27  /etc/services
+|4,53,613,27,1519290566,"/etc/services"
+'6  611  29  /etc/services
+|4,54,611,29,1519112136,"/etc/services"
+'7  611  29  /etc/services
+|4,55,611,29,1519112136,"/etc/services"
+'8  611  29  /etc/services
+|4,56,611,29,1519112136,"/etc/services"
+'9  611  29  /etc/services
+|4,57,611,29,1519112136,"/etc/services"
 
 # Jumplist (newest first):
+-'  614  28  /etc/services
+|4,39,614,28,1520225547,"/etc/services"
+-'  613  27  /etc/services
+|4,39,613,27,1520225541,"/etc/services"
+-'  31  35  /ctf/src/nm2.py
+|4,39,31,35,1519290772,"/ctf/src/nm2.py"
 -'  31  35  /ctf/src/nm2.py
 |4,39,31,35,1519290772,"/ctf/src/nm2.py"
 -'  32  4  /ctf/src/nm2.py
 |4,39,32,4,1519290762,"/ctf/src/nm2.py"
+-'  32  4  /ctf/src/nm2.py
+|4,39,32,4,1519290762,"/ctf/src/nm2.py"
+-'  32  4  /ctf/src/nm2.py
+|4,39,32,4,1519290659,"/ctf/src/nm2.py"
 -'  32  4  /ctf/src/nm2.py
 |4,39,32,4,1519290659,"/ctf/src/nm2.py"
 -'  25  39  /ctf/src/nm2.py
 |4,39,25,39,1519290592,"/ctf/src/nm2.py"
 -'  25  39  /ctf/src/nm2.py
 |4,39,25,39,1519290592,"/ctf/src/nm2.py"
+-'  25  39  /ctf/src/nm2.py
+|4,39,25,39,1519290592,"/ctf/src/nm2.py"
+-'  25  39  /ctf/src/nm2.py
+|4,39,25,39,1519290592,"/ctf/src/nm2.py"
 -'  613  27  /etc/services
 |4,39,613,27,1519290566,"/etc/services"
 -'  613  27  /etc/services
@@ -161,6 +175,8 @@
 |4,39,613,27,1519290566,"/etc/services"
 -'  613  27  /etc/services
 |4,39,613,27,1519290566,"/etc/services"
+-'  611  29  /etc/services
+|4,39,611,29,1519290536,"/etc/services"
 -'  611  29  /etc/services
 |4,39,611,29,1519290536,"/etc/services"
 -'  611  29  /etc/services
@@ -193,6 +209,16 @@
 |4,39,612,31,1519112130,"/etc/services"
 -'  612  31  /etc/services
 |4,39,612,31,1519112130,"/etc/services"
+-'  612  31  /etc/services
+|4,39,612,31,1519112130,"/etc/services"
+-'  25  39  /ctf/src/nm2.py
+|4,39,25,39,1519029829,"/ctf/src/nm2.py"
+-'  25  39  /ctf/src/nm2.py
+|4,39,25,39,1519029829,"/ctf/src/nm2.py"
+-'  25  39  /ctf/src/nm2.py
+|4,39,25,39,1519029829,"/ctf/src/nm2.py"
+-'  25  39  /ctf/src/nm2.py
+|4,39,25,39,1519029829,"/ctf/src/nm2.py"
 -'  25  39  /ctf/src/nm2.py
 |4,39,25,39,1519029829,"/ctf/src/nm2.py"
 -'  25  39  /ctf/src/nm2.py
@@ -213,6 +239,18 @@
 |4,39,1,0,1519029808,"/ctf/src/nm2.py"
 -'  1  0  /ctf/src/nm2.py
 |4,39,1,0,1519029808,"/ctf/src/nm2.py"
+-'  1  0  /ctf/src/nm2.py
+|4,39,1,0,1519029808,"/ctf/src/nm2.py"
+-'  1  0  /ctf/src/nm2.py
+|4,39,1,0,1519029808,"/ctf/src/nm2.py"
+-'  1  0  /ctf/src/nm2.py
+|4,39,1,0,1519029808,"/ctf/src/nm2.py"
+-'  1  0  /ctf/src/nm2.py
+|4,39,1,0,1519029808,"/ctf/src/nm2.py"
+-'  1  0  /ctf/src/nm2.py
+|4,39,1,0,1519029808,"/ctf/src/nm2.py"
+-'  1  0  /ctf/src/nm2.py
+|4,39,1,0,1519029808,"/ctf/src/nm2.py"
 -'  611  31  /etc/services
 |4,39,611,31,1519029631,"/etc/services"
 -'  611  31  /etc/services
@@ -261,46 +299,8 @@
 |4,39,609,35,1519029622,"/etc/services"
 -'  609  35  /etc/services
 |4,39,609,35,1519029622,"/etc/services"
--'  21  2  /home/rm.sh
-|4,39,21,2,1518593680,"/home/rm.sh"
--'  21  2  /home/rm.sh
-|4,39,21,2,1518593680,"/home/rm.sh"
--'  21  2  /home/rm.sh
-|4,39,21,2,1518593680,"/home/rm.sh"
--'  21  2  /home/rm.sh
-|4,39,21,2,1518593680,"/home/rm.sh"
--'  21  2  /home/rm.sh
-|4,39,21,2,1518593680,"/home/rm.sh"
--'  21  2  /home/rm.sh
-|4,39,21,2,1518593680,"/home/rm.sh"
--'  21  2  /home/rm.sh
-|4,39,21,2,1518593680,"/home/rm.sh"
--'  21  2  /home/rm.sh
-|4,39,21,2,1518593680,"/home/rm.sh"
--'  21  2  /home/rm.sh
-|4,39,21,2,1518593680,"/home/rm.sh"
--'  21  2  /home/rm.sh
-|4,39,21,2,1518593680,"/home/rm.sh"
--'  21  2  /home/rm.sh
-|4,39,21,2,1518593680,"/home/rm.sh"
--'  21  2  /home/rm.sh
-|4,39,21,2,1518593680,"/home/rm.sh"
--'  21  2  /home/rm.sh
-|4,39,21,2,1518593680,"/home/rm.sh"
--'  21  2  /home/rm.sh
-|4,39,21,2,1518593680,"/home/rm.sh"
--'  21  2  /home/rm.sh
-|4,39,21,2,1518593680,"/home/rm.sh"
--'  21  2  /home/rm.sh
-|4,39,21,2,1518593680,"/home/rm.sh"
--'  21  2  /home/rm.sh
-|4,39,21,2,1518593680,"/home/rm.sh"
--'  21  2  /home/rm.sh
-|4,39,21,2,1518593680,"/home/rm.sh"
--'  21  2  /home/rm.sh
-|4,39,21,2,1518593680,"/home/rm.sh"
--'  21  2  /home/rm.sh
-|4,39,21,2,1518593680,"/home/rm.sh"
+-'  609  35  /etc/services
+|4,39,609,35,1519029622,"/etc/services"
 -'  21  2  /home/rm.sh
 |4,39,21,2,1518593680,"/home/rm.sh"
 -'  21  2  /home/rm.sh
@@ -346,22 +346,11 @@
 
 # History of marks within files (newest to oldest):
 
-> /ctf/src/nm2.py
-	*	1519290770	0
-	"	31	35
-	^	31	36
-	.	31	35
-	+	25	39
-	+	31	15
-	+	33	0
-	+	32	0
-	+	31	35
-
 > /etc/services
-	*	1519290564	0
-	"	613	27
-	^	613	28
-	.	613	22
+	*	1520225545	0
+	"	614	28
+	^	614	29
+	.	614	23
 	+	599	13
 	+	579	13
 	+	580	15
@@ -397,12 +386,24 @@
 	+	606	14
 	+	608	21
 	+	607	23
-	+	614	30
+	+	615	30
 	+	610	21
 	+	609	32
 	+	612	26
 	+	611	24
 	+	613	22
+	+	614	23
+
+> /ctf/src/nm2.py
+	*	1519290770	0
+	"	31	35
+	^	31	36
+	.	31	35
+	+	25	39
+	+	31	15
+	+	33	0
+	+	32	0
+	+	31	35
 
 > /home/rm.sh
 	*	1518593679	0
